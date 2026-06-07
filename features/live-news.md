@@ -8,7 +8,7 @@ The **Live News Tab** aggregates breaking news and real-time updates from the mo
 
 ## How It Works
 
-Poly Helper maintains a curated list of high-signal news and intelligence accounts on X. When you open a Polymarket event page, the Live News Tab automatically filters and surfaces posts that are relevant to that specific market — based on tickers, topics, keywords, and entity names.
+PolyHelper maintains a curated list of high-signal news and intelligence accounts on X. When you open a Polymarket event page, the Live News Tab automatically filters and surfaces posts that are relevant to that specific market — based on tickers, topics, keywords, and entity names.
 
 **Sources include:**
 - Macro economic reporters and journalists
@@ -29,7 +29,7 @@ The news feed is **not a generic news stream** — it's filtered to the market y
 New posts appear in the feed as they're published — typically with a delay of under 1 minute from the original post on X.
 
 ### Trusted Sources Only
-The Poly Helper team manually curates the source list, filtering out noise, low-quality accounts, and sources known for spreading misinformation. This keeps the signal-to-noise ratio high.
+The PolyHelper team manually curates the source list, filtering out noise, low-quality accounts, and sources known for spreading misinformation. This keeps the signal-to-noise ratio high.
 
 ### Direct Links
 Every news item links directly to the original post on X, letting you verify the source and see full context in one click.
@@ -42,7 +42,7 @@ Every news item links directly to the original post on X, letting you verify the
 
 **Information asymmetry is one of the biggest edges in prediction markets.**
 
-Professional traders monitor dozens of feeds simultaneously to catch market-moving news before it's priced in. The Live News Tab democratizes this — giving every Poly Helper user the same real-time awareness.
+Professional traders monitor dozens of feeds simultaneously to catch market-moving news before it's priced in. The Live News Tab democratizes this — giving every PolyHelper user the same real-time awareness.
 
 Examples of market-moving news the tab helps you catch early:
 - Fed official comments ahead of rate decisions
@@ -55,7 +55,7 @@ Examples of market-moving news the tab helps you catch early:
 
 ## Customization
 
-> *Note: Full customization features are in development. The source list is currently managed by the Poly Helper team based on community feedback.*
+> *Note: Full customization features are in development. The source list is currently managed by the PolyHelper team based on community feedback.*
 
 You can suggest sources to add by messaging [@Poly_Helper on X](https://x.com/Poly_Helper) or posting in the [Discord](https://discord.gg/2RfMcye8fG).
 
