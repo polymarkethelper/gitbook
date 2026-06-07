@@ -1,6 +1,6 @@
 # Installation Guide
 
-Getting started with Poly Helper takes less than 2 minutes. The extension is available on the Chrome Web Store and works on any Chromium-based browser.
+Getting started with PolyHelper takes less than 2 minutes. The extension is available on the Chrome Web Store and works on any Chromium-based browser.
 
 ---
 
@@ -21,9 +21,9 @@ Getting started with Poly Helper takes less than 2 minutes. The extension is ava
 
 ### Step 1 — Open the Chrome Web Store
 
-Go to the [Poly Helper page on the Chrome Web Store](https://polyhelper.io) or visit [polyhelper.io](https://polyhelper.io) and click the **"Add to Chrome"** button.
+Go to the [PolyHelper page on the Chrome Web Store](https://polyhelper.io) or visit [polyhelper.io](https://polyhelper.io) and click the **"Add to Chrome"** button.
 
-<figure><img src="../.gitbook/assets/install-step1.png" alt="Chrome Web Store page for Poly Helper"><figcaption>Chrome Web Store — Poly Helper listing</figcaption></figure>
+<figure><img src="../.gitbook/assets/install-step1.png" alt="Chrome Web Store page for PolyHelper"><figcaption>Chrome Web Store — PolyHelper listing</figcaption></figure>
 
 ---
 
@@ -34,30 +34,30 @@ A confirmation popup will appear asking you to confirm the installation. Click *
 <figure><img src="../.gitbook/assets/install-step2.png" alt="Add to Chrome confirmation dialog"><figcaption>Click "Add extension" to confirm</figcaption></figure>
 
 {% hint style="info" %}
-Poly Helper only requests permissions it needs to read Polymarket pages. It does not access your wallet, private keys, or any other browser data.
+PolyHelper only requests permissions it needs to read Polymarket pages. It does not access your wallet, private keys, or any other browser data.
 {% endhint %}
 
 ---
 
 ### Step 3 — Pin the Extension (Optional but Recommended)
 
-After installation, click the **puzzle icon** (Extensions menu) in your Chrome toolbar, then click the **pin icon** next to Poly Helper. This keeps the extension icon visible in your toolbar for quick access.
+After installation, click the **puzzle icon** (Extensions menu) in your Chrome toolbar, then click the **pin icon** next to PolyHelper. This keeps the extension icon visible in your toolbar for quick access.
 
-<figure><img src="../.gitbook/assets/install-step3.png" alt="Pinning the extension"><figcaption>Pin Poly Helper to your toolbar</figcaption></figure>
+<figure><img src="../.gitbook/assets/install-step3.png" alt="Pinning the extension"><figcaption>Pin PolyHelper to your toolbar</figcaption></figure>
 
 ---
 
 ### Step 4 — Open Polymarket
 
-Navigate to [polymarket.com](https://polymarket.com). Poly Helper activates automatically — you'll see new panels appearing in the sidebar of market pages.
+Navigate to [polymarket.com](https://polymarket.com). PolyHelper activates automatically — you'll see new panels appearing in the sidebar of market pages.
 
-<figure><img src="../.gitbook/assets/install-step4.png" alt="Poly Helper active on Polymarket"><figcaption>Poly Helper panels loaded on a Polymarket event page</figcaption></figure>
+<figure><img src="../.gitbook/assets/install-step4.png" alt="PolyHelper active on Polymarket"><figcaption>PolyHelper panels loaded on a Polymarket event page</figcaption></figure>
 
 ---
 
 ### Step 5 — Connect Your Account (for Rewards)
 
-To start earning Poly Helper reward points, click the extension icon in your toolbar and connect your Polymarket wallet address. This enables:
+To start earning PolyHelper reward points, click the extension icon in your toolbar and connect your Polymarket wallet address. This enables:
 
 - Daily point claims
 - Trading volume tracking
@@ -81,23 +81,23 @@ Chrome automatically keeps extensions up to date. To manually check for updates:
 
 To remove the extension:
 
-1. Right-click the Poly Helper icon in your toolbar
+1. Right-click the PolyHelper icon in your toolbar
 2. Select **"Remove from Chrome"**
 3. Confirm removal
 
-Your Polymarket account and funds are completely unaffected by installing or uninstalling Poly Helper.
+Your Polymarket account and funds are completely unaffected by installing or uninstalling PolyHelper.
 
 ---
 
 ## Troubleshooting
 
 **Panels are not appearing on Polymarket**
-- Make sure the extension is enabled: go to `chrome://extensions/` and check that Poly Helper is toggled on
+- Make sure the extension is enabled: go to `chrome://extensions/` and check that PolyHelper is toggled on
 - Try refreshing the Polymarket page (Ctrl+R / Cmd+R)
 - Make sure you are on a market page, not just the homepage
 
 **Extension installed but no icon visible**
-- Click the puzzle icon in Chrome toolbar → find Poly Helper → click the pin icon
+- Click the puzzle icon in Chrome toolbar → find PolyHelper → click the pin icon
 
 **Data is not loading in panels**
 - Check your internet connection
