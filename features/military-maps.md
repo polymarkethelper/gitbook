@@ -71,7 +71,7 @@ ISW is used as the data source because:
 
 ## Companion Tools
 
-Military Maps is part of Poly Helper's geopolitical intelligence suite:
+Military Maps is part of PolyHelper's geopolitical intelligence suite:
 - [Pentagon Activity Tracker →](pentagon-tracker.md) — US/NATO signals and PizzINT
 - [Conflict Radar →](conflict-radar.md) — Global conflict overview and event feed
 
