@@ -64,7 +64,7 @@ See how your position compares to the total liquidity in the market — helping 
 | Better for stable, well-priced markets | Better for volatile, uncertain markets |
 
 {% hint style="info" %}
-LP rewards are separate from Poly Helper's own [points & airdrop program](../rewards/program.md). You can earn both simultaneously.
+LP rewards are separate from PolyHelper's own [points & airdrop program](../rewards/program.md). You can earn both simultaneously.
 {% endhint %}
 
 ---
