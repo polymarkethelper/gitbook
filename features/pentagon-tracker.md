@@ -45,7 +45,7 @@ Filter the feed by region to focus on specific geographic areas relevant to the 
 
 The name is a nod to the OSINT community's playful naming conventions — "PizzINT" refers to the practice of reading military signals from open-source data, similar to how analysts once identified nuclear facility activity from pizza delivery patterns near classified sites.
 
-The Poly Helper team uses this as a shorthand for the capability: **everyday open-source data revealing strategic intelligence**.
+The PolyHelper team uses this as a shorthand for the capability: **everyday open-source data revealing strategic intelligence**.
 
 ---
 
