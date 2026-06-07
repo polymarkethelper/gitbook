@@ -4,7 +4,7 @@
 * [Introduction](README.md)
 
 ## Getting Started
-* [What is Poly Helper?](getting-started/what-is-polyhelper.md)
+* [What is PolyHelper?](getting-started/what-is-polyhelper.md)
 * [Installation Guide](getting-started/installation.md)
 * [How It Works](getting-started/how-it-works.md)
 
