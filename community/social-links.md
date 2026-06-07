@@ -1,6 +1,6 @@
 # Social Media & Community
 
-Poly Helper has an active and growing community across multiple platforms. Join us to stay updated on new features, earn bonus points, and connect with other Polymarket traders.
+PolyHelper has an active and growing community across multiple platforms. Join us to stay updated on new features, earn bonus points, and connect with other Polymarket traders.
 
 ---
 
