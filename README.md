@@ -1,22 +1,22 @@
-# Welcome to Poly Helper
+# Welcome to PolyHelper
 
 {% hint style="info" %}
-**Poly Helper** — the most powerful browser extension for Polymarket traders. Get market intelligence, real-time data, and deep analytics — all in one place.
+**PolyHelper** — the most powerful browser extension for Polymarket traders. Get market intelligence, real-time data, and deep analytics — all in one place.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/banner.png" alt="Poly Helper Banner"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/banner.png" alt="PolyHelper Banner"><figcaption></figcaption></figure>
 
-## What is Poly Helper?
+## What is PolyHelper?
 
-**Poly Helper** is a browser extension that supercharges your [Polymarket](https://polymarket.com) trading experience. It adds 20+ specialized intelligence panels directly into the Polymarket interface — without modifying or replacing any native features of the platform.
+**PolyHelper** is a browser extension that supercharges your [Polymarket](https://polymarket.com) trading experience. It adds 20+ specialized intelligence panels directly into the Polymarket interface — without modifying or replacing any native features of the platform.
 
-Whether you're trading crypto markets, sports outcomes, political events, or geopolitical developments, Poly Helper gives you the contextual data you need to make smarter decisions — right where you trade.
+Whether you're trading crypto markets, sports outcomes, political events, or geopolitical developments, PolyHelper gives you the contextual data you need to make smarter decisions — right where you trade.
 
 ---
 
-## Why Poly Helper?
+## Why PolyHelper?
 
-| Without Poly Helper | With Poly Helper |
+| Without PolyHelper | With PolyHelper |
 |---|---|
 | Switch between 5+ tabs to research a market | All context loaded in one sidebar panel |
 | Manually track holder positions | Top Holders PnL shown automatically |
@@ -65,7 +65,7 @@ Whether you're trading crypto markets, sports outcomes, political events, or geo
 
 ## Community
 
-Join thousands of traders already using Poly Helper:
+Join thousands of traders already using PolyHelper:
 
 - **Twitter/X:** [@Poly_Helper](https://x.com/Poly_Helper)
 - **Telegram:** [t.me/polyhelper](https://t.me/polyhelper)
