@@ -1,14 +1,14 @@
 # Points & Airdrop Program
 
-Poly Helper runs a **rewards program** that lets users earn points through activity — and those points qualify for potential airdrop allocations.
+PolyHelper runs a **rewards program** that lets users earn points through activity — and those points qualify for potential airdrop allocations.
 
-<figure><img src="../.gitbook/assets/rewards-program.png" alt="Poly Helper Rewards Program"><figcaption>Poly Helper rewards dashboard</figcaption></figure>
+<figure><img src="../.gitbook/assets/rewards-program.png" alt="PolyHelper Rewards Program"><figcaption>PolyHelper rewards dashboard</figcaption></figure>
 
 ---
 
 ## How Points Work
 
-Points are earned through various activities within the Poly Helper ecosystem. The more active you are, the more points you accumulate — and the larger your potential airdrop allocation.
+Points are earned through various activities within the PolyHelper ecosystem. The more active you are, the more points you accumulate — and the larger your potential airdrop allocation.
 
 ---
 
@@ -22,7 +22,7 @@ Points are earned through various activities within the Poly Helper ecosystem. T
 | Social Tasks | +0.5 points per completed task |
 
 ### Daily Claim
-Log in to Poly Helper every day and claim your daily 0.5 points. Simple, free, and compounds over time.
+Log in to PolyHelper every day and claim your daily 0.5 points. Simple, free, and compounds over time.
 
 ### Trading Volume
 Points scale with your Polymarket trading activity:
@@ -33,7 +33,7 @@ Points scale with your Polymarket trading activity:
 Your existing trading history counts — if you've been actively trading on Polymarket, your volume is already accumulating points.
 
 ### Referral Program
-Share your unique referral link. When someone signs up and uses Poly Helper:
+Share your unique referral link. When someone signs up and uses PolyHelper:
 - You receive **+1 point** for each person you refer
 - You receive **10% of all points** they earn going forward (passive income on their activity)
 
@@ -42,7 +42,7 @@ Your referrals' referrals also count — making early referrers disproportionate
 ### Social Tasks
 Complete tasks to earn bonus points:
 - Follow @Poly_Helper on X
-- Share a post about Poly Helper
+- Share a post about PolyHelper
 - Join the Discord or Telegram
 - Complete feature-specific tasks announced on social media
 
@@ -71,16 +71,16 @@ The higher Polymarket's total platform volume, the larger the total rewards pool
 ## How to Start Earning
 
 ### Step 1 — Install the Extension
-[Install Poly Helper →](../getting-started/installation.md)
+[Install PolyHelper →](../getting-started/installation.md)
 
 ### Step 2 — Connect Your Account
-Click the Poly Helper icon in your browser toolbar and connect your Polymarket wallet address to link your trading volume to your points account.
+Click the PolyHelper icon in your browser toolbar and connect your Polymarket wallet address to link your trading volume to your points account.
 
 ### Step 3 — Claim Your Daily Points
-Visit any Polymarket page with Poly Helper installed and claim your daily 0.5 points.
+Visit any Polymarket page with PolyHelper installed and claim your daily 0.5 points.
 
 ### Step 4 — Share Your Referral Link
-Find your referral link in the Poly Helper dashboard and share it to start earning passive points from your network.
+Find your referral link in the PolyHelper dashboard and share it to start earning passive points from your network.
 
 ### Step 5 — Complete Social Tasks
 Follow the latest social tasks on [@Poly_Helper](https://x.com/Poly_Helper) for bonus point opportunities.
@@ -89,7 +89,7 @@ Follow the latest social tasks on [@Poly_Helper](https://x.com/Poly_Helper) for 
 
 ## Tracking Your Points
 
-Your current point balance and breakdown is visible in the Poly Helper dashboard — accessible by clicking the extension icon in your browser toolbar.
+Your current point balance and breakdown is visible in the PolyHelper dashboard — accessible by clicking the extension icon in your browser toolbar.
 
 The dashboard shows:
 - Total points earned
