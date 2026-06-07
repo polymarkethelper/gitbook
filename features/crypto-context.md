@@ -1,6 +1,6 @@
 # Crypto Context Panel
 
-The **Crypto Context Panel** is Poly Helper's flagship tool for crypto-related Polymarket events. It loads automatically on any market involving cryptocurrency prices, token launches, or DeFi protocols.
+The **Crypto Context Panel** is PolyHelper's flagship tool for crypto-related Polymarket events. It loads automatically on any market involving cryptocurrency prices, token launches, or DeFi protocols.
 
 <figure><img src="../.gitbook/assets/crypto-context-panel.png" alt="Crypto Context Panel"><figcaption>Crypto Context Panel on a BTC price market</figcaption></figure>
 
