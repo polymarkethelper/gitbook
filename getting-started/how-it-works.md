@@ -2,7 +2,7 @@
 
 ## Technical Overview
 
-Poly Helper is a **browser extension** built on the Chrome Extensions (Manifest V3) standard. It works by injecting lightweight UI components into Polymarket pages — adding new informational panels to the existing interface without altering or replacing any native functionality.
+PolyHelper is a **browser extension** built on the Chrome Extensions (Manifest V3) standard. It works by injecting lightweight UI components into Polymarket pages — adding new informational panels to the existing interface without altering or replacing any native functionality.
 
 ---
 
@@ -12,7 +12,7 @@ Poly Helper is a **browser extension** built on the Chrome Extensions (Manifest 
 Polymarket Page (polymarket.com)
          │
          ▼
-  Poly Helper Extension
+  PolyHelper Extension
   ┌─────────────────────────────────────┐
   │                                     │
   │   Content Scripts                   │
@@ -42,7 +42,7 @@ Polymarket Page (polymarket.com)
 
 ## Smart Market Detection
 
-Poly Helper automatically detects the **type of market** you're viewing and loads the relevant data panels. You don't need to configure anything manually.
+PolyHelper automatically detects the **type of market** you're viewing and loads the relevant data panels. You don't need to configure anything manually.
 
 | Market Type | Auto-loaded Panels |
 |---|---|
@@ -61,7 +61,7 @@ Poly Helper automatically detects the **type of market** you're viewing and load
 ## Data Flow
 
 1. **You open a Polymarket market page**
-2. Poly Helper's content script detects the market category
+2. PolyHelper's content script detects the market category
 3. Relevant panels are injected into the sidebar
 4. The background service worker fetches live data from multiple APIs
 5. Data is rendered in real-time inside the panels
@@ -71,22 +71,22 @@ Poly Helper automatically detects the **type of market** you're viewing and load
 
 ## Privacy & Security
 
-Poly Helper is designed with user privacy as a priority:
+PolyHelper is designed with user privacy as a priority:
 
 - **No wallet access** — the extension never reads your private keys or seed phrase
-- **No trade execution** — Poly Helper is purely informational; it cannot place, modify, or cancel orders
+- **No trade execution** — PolyHelper is purely informational; it cannot place, modify, or cancel orders
 - **No personal data collection** — usage data is not sold or shared with third parties
 - **Open permissions** — the extension only requests the permissions it needs to function on Polymarket
 
 {% hint style="warning" %}
-Poly Helper will **never** ask for your wallet's seed phrase, private key, or password. If you see such a request, it is not from Poly Helper.
+PolyHelper will **never** ask for your wallet's seed phrase, private key, or password. If you see such a request, it is not from PolyHelper.
 {% endhint %}
 
 ---
 
 ## Panel System
 
-Each panel in Poly Helper is an independent module. You can:
+Each panel in PolyHelper is an independent module. You can:
 
 - **Expand / collapse** individual panels
 - **Scroll** through panel content independently
@@ -98,7 +98,7 @@ Panels are loaded lazily — only the panels relevant to the current market are 
 
 ## Keeping Data Fresh
 
-Poly Helper uses a smart caching and refresh system:
+PolyHelper uses a smart caching and refresh system:
 
 | Data Type | Refresh Rate |
 |---|---|
@@ -113,7 +113,7 @@ Poly Helper uses a smart caching and refresh system:
 
 ## Next Steps
 
-Now that you understand how Poly Helper works, explore all the available analytics tools:
+Now that you understand how PolyHelper works, explore all the available analytics tools:
 
 - [Overview of all features →](../features/overview.md)
 - [Crypto Context Panel →](../features/crypto-context.md)
