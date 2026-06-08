@@ -1,89 +1,95 @@
 # Sports Intel
 
-The **Sports Intel** panel brings live scores, team statistics, and match context directly into Polymarket — eliminating the need to open ESPN, Google Sports, or any external site while you trade sports markets.
+The **Sports Intel** panel loads matchup data and live standings directly inside Polymarket — everything you need to trade sports markets without leaving the page.
 
-<figure><img src="../.gitbook/assets/sports-intel.png" alt="Sports Intel Panel"><figcaption>Sports Intel panel showing live NBA game data</figcaption></figure>
+Open it via the **Sports** icon in the right-side panel navigation.
+
+<figure><img src="../.gitbook/assets/sports-intel.png" alt="Sports Intel Panel — La Liga matchup"><figcaption>Sports Intel showing Atlético Madrid vs Barcelona: recent form, last 5 matches, and current La Liga standings</figcaption></figure>
 
 ---
 
 ## Supported Sports
 
-| Sport | Coverage |
+| Sport | |
 |---|---|
-| 🏀 NBA | Live scores, player stats, standings, injury reports |
-| 🏈 NFL | Live scores, team stats, injury reports, weather conditions |
-| ⚾ MLB | Live scores, pitcher stats, team ERA, batting averages |
-| 🏒 NHL | Live scores, team records, goalie stats |
-| ⚽ Soccer | Live scores, league tables, goal stats — major leagues worldwide |
-| 🏎️ Formula 1 | Session results, qualifying, standings, weather at circuit |
+| ⚽ Football (Soccer) | All major leagues worldwide |
+| 🏀 Basketball | NBA and international |
+| 🏒 Hockey | NHL and major leagues |
+| 🥊 UFC / MMA | Fighter records and rankings |
+| 🏈 American Football | NFL |
+| 🎾 Tennis | ATP, WTA, Grand Slams |
+| ⚾ Baseball | MLB |
+| 🏎️ Formula 1 | Race results, qualifying, standings |
 
 ---
 
 ## What the Panel Shows
 
-### Live Score Display
-Real-time scoreboard for the game or match related to the market you're viewing:
-- Current score
-- Period / quarter / inning / half
-- Time remaining
-- Possession / game state indicators
+### Matchup Section
+For each team or competitor involved in the market:
 
-### Team Statistics
-Key stats for both teams/sides:
-- Season record (W-L)
-- Recent form (last 5 games)
-- Head-to-head history
-- Home vs. away performance
+**Recent Form Badges** — a row of colored markers showing the last 5 results at a glance:
+- 🟢 **W** — Win
+- 🔴 **L** — Loss
+- 🟡 **D** — Draw
 
-### Player Information
-For player-specific markets:
-- Individual stats relevant to the market (points per game, goals, etc.)
-- Recent performance (last 3–5 games)
-- Injury status and availability
+**Last 5 Matches** — full breakdown for each game:
+- Date, opponent (with club badge), and final score
+- Result badge (W / L / D) per match
 
-### Injury Reports
-Live updates on player availability — critical for markets about game outcomes or player performance.
+This lets you instantly see who's in form and who's struggling — without leaving Polymarket.
 
-<figure><img src="../.gitbook/assets/sports-injury-report.png" alt="Injury report in Sports Intel"><figcaption>Injury report integration in the Sports Intel panel</figcaption></figure>
+### Current Standings
+Full league standings table for the relevant competition, including:
+
+| Column | Description |
+|---|---|
+| **#** | Current position in the table |
+| **Team** | Club name and badge |
+| **W / D / L** | Wins, Draws, Losses |
+| **GF / GA** | Goals scored and conceded |
+| **PTS** | Total points |
+
+The two teams in the matchup are highlighted in the standings table for quick reference.
+
+<figure><img src="../.gitbook/assets/sports-intel-standings.png" alt="La Liga standings in Sports Intel"><figcaption>Live La Liga standings embedded in the Sports Intel panel</figcaption></figure>
 
 ---
 
 ## How to Use It
 
-**For game outcome markets** (e.g., "Will [Team A] beat [Team B]?"):
-1. Review both teams' recent form and H2H record
-2. Check injury reports — missing key players drastically shifts odds
-3. For NFL: check weather conditions at the venue (impacts passing game)
+**For match winner markets** (e.g., "Will Barcelona beat Atlético?"):
+1. Check the recent form badges — 5 greens vs a mix of red and green tells the story immediately
+2. Look at individual match results — are the wins against strong or weak opponents?
+3. Check standings — gap in points and position reflects the season-long gap in quality
 
-**For player performance markets** (e.g., "Will [Player] score 25+ points?"):
-1. Look at the player's recent game averages
-2. Check matchup — is the opposing defense weak or strong against this position?
-3. Review injury status and expected minutes
+**For season outcome markets** (e.g., "Will [Team] win the league?"):
+1. Check current points and position in the standings
+2. Count remaining games and look at recent form — is the team in a good run or collapsing?
 
-**For season-long markets** (e.g., "Will [Team] make the playoffs?"):
-1. Check current standings and record
-2. Count remaining games and difficulty of schedule
+**For competition-specific markets** (UFC, tennis, F1):
+- Fighter records and rankings are loaded automatically for UFC markets
+- Player rankings and recent results for tennis
+- Race and qualifying results for F1 markets
 
 ---
 
 ## Sport-Specific Notes
 
-### NBA
-The panel integrates with real-time NBA data feeds, showing quarter-by-quarter scoring, team fouls, and player point totals mid-game — useful for live trading on in-progress game markets.
+### Football (Soccer)
+Covers all major leagues: Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, Europa League, and major international tournaments.
 
-### NFL
-Includes **weather data at game venue** — important for over/under markets where wind and rain significantly affect scoring.
+### UFC / MMA
+Loads fighter records, win method breakdown (KO/Sub/Decision), and divisional rankings. Works alongside the dedicated [UFC Context](ufc-context.md) panel.
 
 ### Formula 1
-Shows session-by-session results: Practice 1/2/3, Qualifying, Sprint, Race. Useful for markets about race winners, fastest lap, or constructor standings.
+Session-by-session results: Practice, Qualifying, Sprint, Race. Useful for winner markets, fastest lap, and constructor standings.
 
-### Soccer
-Covers all major leagues including Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, and major international tournaments.
+### American Football (NFL)
+Team records, recent form, and season standings — useful for game winner and playoff-related markets.
 
 ---
 
 ## Markets Where This Panel Activates
 
-- Any market mentioning an NBA, NFL, MLB, NHL, soccer, or F1 team or player
-- Season outcome markets (championships, playoffs, relegation)
-- Player performance markets (points, goals, assists, stats thresholds)
+Sports Intel activates automatically on any market mentioning a sports team, athlete, league, or event across the 8 supported sports.
