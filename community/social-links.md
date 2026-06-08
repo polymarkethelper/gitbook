@@ -20,15 +20,24 @@ Follow and turn on notifications to never miss a feature drop.
 
 ---
 
-### Telegram
+### Telegram Channel
 **[t.me/polyhelper](https://t.me/polyhelper)**
 
-Our Telegram community is the most active discussion hub:
+Official PolyHelper channel — announcements, feature releases, and updates.
+
+### Telegram Community
+**[t.me/polyhelpercommunity](https://t.me/polyhelpercommunity)**
+
+The most active discussion hub for PolyHelper users:
 - Real-time Polymarket market discussion
 - Community alpha sharing
 - Feature feedback and requests
 - Support from the team and other users
-- Announcements (mirrored from X)
+
+### Telegram Support
+**[t.me/polyhelpers](https://t.me/polyhelpers)**
+
+Direct technical support — reach out here if you have issues with the extension.
 
 ---
 
@@ -72,8 +81,9 @@ The main landing page with:
 The best way to stay updated:
 
 1. **Follow [@Poly_Helper](https://x.com/Poly_Helper)** on X with notifications on
-2. **Join the Telegram** for real-time market discussion
-3. **Join the Discord** for structured community channels and support
+2. **Join [Telegram Community](https://t.me/polyhelpercommunity)** for real-time market discussion
+3. **Subscribe to [Telegram Channel](https://t.me/polyhelper)** for announcements
+4. **Join the [Discord](https://discord.gg/2RfMcye8fG)** for structured community channels and support
 
 New features, social tasks with bonus points, and Polymarket market coverage additions are announced across all channels simultaneously.
 
@@ -83,7 +93,7 @@ New features, social tasks with bonus points, and Polymarket market coverage add
 
 For technical support or bug reports:
 - Post in `#support` on [Discord](https://discord.gg/2RfMcye8fG)
-- Message on [Telegram](https://t.me/polyhelper)
+- Message on [Telegram Support](https://t.me/polyhelpers)
 - DM [@Poly_Helper on X](https://x.com/Poly_Helper)
 
 For business inquiries and partnerships:
