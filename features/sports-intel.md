@@ -55,7 +55,7 @@ Live updates on player availability — critical for markets about game outcomes
 2. Check injury reports — missing key players drastically shifts odds
 3. For NFL: check weather conditions at the venue (impacts passing game)
 
-**For player performance markets** (e.g., "Will [Player] score 20+ points?"):
+**For player performance markets** (e.g., "Will [Player] score 25+ points?"):
 1. Look at the player's recent game averages
 2. Check matchup — is the opposing defense weak or strong against this position?
 3. Review injury status and expected minutes
