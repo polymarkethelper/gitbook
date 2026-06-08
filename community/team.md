@@ -56,6 +56,9 @@ Stanislav drives PolyHelper's growth, partnerships, and community expansion. His
 
 His ability to drive user acquisition at scale is what has made PolyHelper one of the fastest-growing tools in the Polymarket ecosystem.
 
+**X:** [@AdzProsperous](https://x.com/AdzProsperous)
+**Telegram:** [@OxVooDoo](https://t.me/OxVooDoo)
+
 ---
 
 ### Alex — CBDO (Chief Business Development Officer)
