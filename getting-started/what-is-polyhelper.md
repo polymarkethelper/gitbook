@@ -14,12 +14,14 @@ PolyHelper solves this by aggregating relevant data — crypto prices, sports sc
 
 Polymarket covers hundreds of different event categories:
 
-- **Crypto** — Will Bitcoin hit $100K? Will this token launch?
+- **Crypto** — Live price chart directly inside Polymarket, premarket statistics, token valuation and launch price data
 - **Politics** — Election outcomes, legislative votes, approval ratings
 - **Sports** — Game results, player stats, season outcomes
 - **Geopolitics** — Military conflicts, international relations
 - **Entertainment** — Box office results, award ceremonies
 - **Economics** — Fed rate decisions, GDP, inflation
+- **Weather** — Forecasts and extreme weather events
+- *...and much more*
 
 Each category requires different external data sources to research properly. Without PolyHelper, a trader has to:
 
