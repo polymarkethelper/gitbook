@@ -23,6 +23,7 @@ Whether you're trading crypto markets, sports outcomes, political events, or geo
 | External tools slow down your browser | PolyHelper doesn't slow Polymarket down — in some cases it speeds up your workflow |
 | Static data you have to manually refresh | Everything updates in live format — prices, scores, news, positions in real time |
 | Generic news sources with no market context | Curated intel from people who actually trade Polymarket — traders building for traders |
+| One-size-fits-all tools with no flexibility | Fully customizable — enable only the tools you need, built around your trading style |
 
 ---
 
@@ -31,6 +32,7 @@ Whether you're trading crypto markets, sports outcomes, political events, or geo
 - **20+ specialized data panels** covering crypto, sports, politics, macro, geopolitics, and more
 - **Non-invasive** — works alongside Polymarket's native interface, never replacing it
 - **Real-time data** — live prices, scores, news, and market intelligence
+- **Fully customizable** — turn off any tool you don't need via the settings panel, tailoring PolyHelper to your personal trading style
 - **Rewards program** — earn points toward a potential Polymarket airdrop
 - **Free to install** via the Chrome Web Store
 
