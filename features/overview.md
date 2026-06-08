@@ -1,6 +1,6 @@
 # Analytics Tools Overview
 
-PolyHelper includes **20+ specialized analytics panels** covering every major Polymarket category. Each tool is designed to give you a contextual edge in a specific type of market.
+PolyHelper includes **25+ specialized analytics panels** covering every major Polymarket category. Each tool is designed to give you a contextual edge in a specific type of market.
 
 ---
 
