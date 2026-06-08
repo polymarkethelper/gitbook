@@ -1,78 +1,82 @@
-# Crypto Context Panel
+# Crypto Context
 
-The **Crypto Context Panel** is PolyHelper's flagship tool for crypto-related Polymarket events. It loads automatically on any market involving cryptocurrency prices, token launches, or DeFi protocols.
+Stop bouncing between CoinMarketCap and CoinGecko. **Crypto Context** brings all the data you need to trade crypto markets — price, supply, derivatives, sentiment — directly inside Polymarket.
 
-<figure><img src="../.gitbook/assets/crypto-context-panel.png" alt="Crypto Context Panel"><figcaption>Crypto Context Panel on a BTC price market</figcaption></figure>
+Open it via the **Crypto** icon in the right-side panel navigation.
+
+<figure><img src="../.gitbook/assets/crypto-context.png" alt="Crypto Context Panel — Bitcoin"><figcaption>Crypto Context for BTC — price, supply, derivatives, Fear & Greed index and more</figcaption></figure>
 
 ---
 
-## What It Shows
+## What the Panel Shows
 
-### Live Price Data
-Real-time price feed for the token or coin related to the market you're viewing. Prices update every 30 seconds from major exchanges.
+### Price & Chart
+- Current price with % change
+- Inline price chart with timeframe selector
+- 24h high / low range
+- **ATH** — all-time high with date and current % distance from ATH
 
-- Current price in USD
-- 24h price change (% and absolute)
-- 24h trading volume
-- Market capitalization
+### Market Overview
 
-### Fear & Greed Index
-The **Crypto Fear & Greed Index** is displayed prominently, giving you a quick read on overall market sentiment:
-
-| Score | Sentiment |
+| Metric | Description |
 |---|---|
-| 0–24 | Extreme Fear |
-| 25–49 | Fear |
-| 50 | Neutral |
-| 51–74 | Greed |
-| 75–100 | Extreme Greed |
+| **Market Cap** | Total market capitalization |
+| **24h Volume** | Trading volume with activity indicator (normal / high / low) |
+| **Vol/MCap** | Volume-to-market-cap ratio — shows how actively the asset is being traded |
 
-This is especially useful for markets like "Will BTC be above $X by date?" — extreme fear or greed often correlates with price volatility.
+### Supply
 
-### Market Correlation Data
-See how the asset is correlated with broader market movements:
-- BTC dominance
-- ETH/BTC ratio
-- Correlation with S&P 500 (risk-on/off indicator)
+| Metric | Description |
+|---|---|
+| **Circulating %** | Visual bar showing what % of max supply is in circulation |
+| **Total Supply** | Current total tokens in existence |
+| **Max Supply** | Hard cap on total tokens (e.g., 21M for BTC) |
+| **FDV** | Fully Diluted Valuation — theoretical market cap if all tokens circulated |
+| **Dilution** | FDV ÷ Market Cap — how much potential supply inflation remains |
 
-### Token Unlock Information
-For markets related to token launches or price targets, the panel shows upcoming token unlock schedules — a major factor in supply-side pressure on token prices.
+### Derivatives
 
----
+The derivatives section is where traders find their edge:
 
-## Pre-Market Token Launch Analysis
+| Metric | Description |
+|---|---|
+| **Funding Rate** | 8-hour perpetual rate — negative means shorts pay longs (short squeeze pressure) |
+| **Open Interest** | Total value of open perpetual contracts with % change |
+| **Taker Buy/Sell** | Ratio of aggressive buy vs. sell orders (below 1.0 = sellers dominant) |
+| **Long/Short** | Visual bar showing % of all positions that are long vs. short |
+| **Top Traders** | Long/short split among the largest traders specifically |
 
-For markets about new token launches or initial listings, the panel extends to show:
+### Sentiment
 
-- **FDV (Fully Diluted Valuation)** — the theoretical market cap if all tokens were in circulation
-- **Fundraising data** — total amount raised, lead investors, funding rounds
-- **Initial circulating supply** — what percentage of tokens are available at launch
-- **Vesting schedule** — when locked tokens become unlocked
-
-This data helps you assess whether a token launch price market is fairly valued.
-
-<figure><img src="../.gitbook/assets/crypto-token-launch.png" alt="Token launch analysis panel"><figcaption>Pre-launch analysis for a new token market</figcaption></figure>
+| Metric | Description |
+|---|---|
+| **Fear & Greed** | Score 0–100 with label: Extreme Fear / Fear / Neutral / Greed / Extreme Greed |
+| **BTC Dominance** | Bitcoin's share of total crypto market cap |
+| **Total Market Cap** | Combined crypto market cap with % change |
 
 ---
 
 ## How to Use It
 
-**For price target markets** (e.g., "Will ETH be above $4,000 by end of year?"):
-1. Check the current price vs. the target — how far does it need to move?
-2. Look at the Fear & Greed Index — is the market currently over/under extended?
-3. Check upcoming token unlocks — big unlocks can suppress prices
+**For price target markets** (e.g., "Will BTC hit $100K by [date]?"):
+1. Check current price vs. target and ATH — calibrate how realistic the move is
+2. Check **Fear & Greed** — extreme fear (0–24) often precedes reversals; extreme greed signals overheating
+3. Look at the chart trend — is momentum aligned with the target direction?
 
-**For token launch markets** (e.g., "Will [TOKEN] reach $X on launch day?"):
-1. Review the FDV relative to comparable projects
-2. Check the initial circulating supply — low supply + high FDV = inflation risk
-3. Review the fundraising data — well-funded launches tend to have stronger price support
+**For "will it pump/dump" markets:**
+1. **Funding Rate**: strongly negative = shorts overloaded = short squeeze risk
+2. **Long/Short ratio**: heavily skewed positioning can reverse violently
+3. **Taker Buy/Sell** below 0.8 = sellers in control; above 1.2 = buyers driving
+
+**For market cap or dominance markets:**
+1. Check **BTC DOM** and **Total MCAP** for broad market context
+2. Track **FDV** and **Dilution** for altcoin markets where token unlocks create sell pressure
 
 ---
 
 ## Markets Where This Panel Activates
 
-- "Will BTC hit [price] by [date]?"
-- "What will ETH's price be on [date]?"
-- "Will [TOKEN] reach ATH?"
-- "What price will [TOKEN] launch at?"
-- Any market containing a known crypto ticker or token name
+- Bitcoin, Ethereum, and major altcoin price markets
+- Crypto market cap milestones
+- BTC dominance markets
+- Any market involving a specific cryptocurrency or the broader crypto market
