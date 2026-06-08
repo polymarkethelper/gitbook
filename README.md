@@ -18,11 +18,11 @@ Whether you're trading crypto markets, sports outcomes, political events, or geo
 
 | Without PolyHelper | With PolyHelper |
 |---|---|
-| Switch between 5+ tabs to research a market | All context loaded in one sidebar panel |
-| Manually track holder positions | Top Holders PnL shown automatically |
-| No on-chart price history | TradingView-style candlestick charts built in |
-| No live news aggregation | Breaking news from trusted X sources |
-| No geopolitical monitoring | Pentagon Tracker, Conflict Radar, Military Maps |
+| Switch between 5+ tabs to research a market | All context in one place — right inside Polymarket |
+| Third-party tools break your trading flow | Analytics built natively into the Polymarket interface — zero friction |
+| External tools slow down your browser | PolyHelper doesn't slow Polymarket down — in some cases it speeds up your workflow |
+| Static data you have to manually refresh | Everything updates in live format — prices, scores, news, positions in real time |
+| Generic news sources with no market context | Curated intel from people who actually trade Polymarket — traders building for traders |
 
 ---
 
