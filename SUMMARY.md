@@ -32,6 +32,8 @@
 * [MrBeast Intel](features/mrbeast-intel.md)
 * [Trader Tracker](features/trader-tracker.md)
 * [Profile Enhancer](features/profile-enhancer.md)
+* [X Analytics](features/x-analytics.md)
+* [Bookmaker Odds](features/bookmaker-odds.md)
 
 ## Rewards Program
 * [Points & Airdrop](rewards/program.md)
