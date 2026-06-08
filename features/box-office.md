@@ -1,79 +1,83 @@
 # Box Office
 
-The **Box Office** panel provides weekend revenue projections for movies using industry-standard decay modeling — giving you data-driven estimates for Polymarket's entertainment and film markets.
+Trading box office markets just got easier. The **Box Office** panel loads everything you need — current weekend estimates, weekly history, market probabilities, and comparable films — directly inside Polymarket.
 
-<figure><img src="../.gitbook/assets/box-office.png" alt="Box Office Panel"><figcaption>Weekend box office projections for current releases</figcaption></figure>
+Open it via the **Box Office** icon in the right-side panel navigation.
 
----
-
-## What It Shows
-
-### Weekend Projections
-Projected weekend box office gross for films currently in theaters or opening soon:
-- Opening weekend estimate (for new releases)
-- Second/third weekend estimate (applying decay factors)
-- Running total to date
-- Projected total domestic gross
-
-### Tracking Data
-For major upcoming releases:
-- Pre-release tracking numbers (industry surveys of audience awareness and intent-to-see)
-- Comparison to similar films at the same tracking stage
-- Historical performance of the director, franchise, or studio
-
-### Live Box Office
-During weekends (Friday–Sunday):
-- Friday actuals (early indicator for full weekend performance)
-- Saturday estimates
-- Projected Sunday close
-
-Friday performance is a strong predictor of the full weekend — a film that underperforms on Friday typically underperforms for the whole weekend.
-
-<figure><img src="../.gitbook/assets/box-office-weekend.png" alt="Live weekend tracking"><figcaption>Live Friday-to-Sunday box office tracking</figcaption></figure>
+<figure><img src="../.gitbook/assets/box-office.png" alt="Box Office Panel"><figcaption>Box Office — The Super Mario Galaxy Movie, Wk3 ~$36M estimate with drop comps</figcaption></figure>
 
 ---
 
-## Decay Modeling Explained
+## What the Panel Shows
 
-Box office revenue follows a predictable **decay pattern** week over week. A typical film loses:
+### Movie Card
+At the top: movie poster, title, studio, rating (PG / PG-13 / R), and genre.
 
-| Weekend | Typical Drop from Previous Weekend |
+### Current Estimate & Context
+The main stats block:
+
+| Field | Description |
 |---|---|
-| Opening → Week 2 | -40% to -60% |
-| Week 2 → Week 3 | -30% to -40% |
-| Week 3+ | -20% to -30% per week |
+| **EST** | Current weekend gross estimate |
+| **Market consensus** | Most likely outcome bracket based on current Polymarket pricing (e.g., <44m at 93¢) |
+| **Week number** | Which weekend the film is in (Wk1, Wk2, Wk3...) |
+| **Budget** | Production budget for context |
+| **Legs** | Total gross ÷ opening weekend — higher means stronger audience retention |
+| **Competition** | Other films opening the same weekend |
 
-**Exceptions that cause slower decay (longer legs):**
-- Strong word of mouth (high CinemaScore, positive reviews)
-- Family films with repeat viewership
-- Holiday weekends
+### Weekly Performance History
+- **Prev:** how the predecessor/franchise film performed at opening
+- **Wk1, Wk2, Wk3...** with actual grosses and % change between each week
 
-**Exceptions that cause faster decay:**
-- Front-loaded opening (opening weekend driven by super-fans, not general audiences)
-- Poor reviews or social media backlash
-- Competition from a new major release
+### Estimate Range Slider
+A visual range bar showing where the current estimate sits between the low and high projection.
 
-The Box Office panel applies these decay curves to generate multi-week projections.
+### Market Outcome Probability Bars
+The panel shows what Polymarket is currently pricing for each revenue bracket:
+
+```
+<$44M   ████████████████████  93¢
+$44–48M ██                     7¢
+$48–52M                        0¢
+>$52M                          0¢
+```
+
+Instantly shows the market's conviction — and where mispricings might exist.
+
+---
+
+## Drop Comps
+
+The **Drop Comps** section shows comparable films with their opening weekend gross and Wk2/Wk3 percentage drop — your benchmark for whether the current film is holding better or worse than similar releases:
+
+| Film | Opening Weekend | Drop |
+|---|---|---|
+| Moana 2 (2024) | $139.8M | -63% |
+| Lilo & Stitch (2025) | $146.0M | -58% |
+| The Super Mario Bros. Movie (2023) | $146.4M | -37% |
+| Inside Out 2 (2024) | $154.2M | -34% |
+| Minions: The Rise of Gru (2022) | $107.0M | -57% |
+| A Minecraft Movie (2025) | $162.8M | -52% |
+
+If the current film is dropping faster than comparable titles, the lower revenue brackets are likely.
 
 ---
 
 ## How to Use It
 
-**For opening weekend markets** (e.g., "Will [Movie] open above $X million?"):
-1. Check current tracking numbers — how does awareness and intent-to-see compare to similar films?
-2. Look at comparable film openings at similar tracking stages
-3. Factor in release date competition (is anything else opening that weekend?)
+**For weekly gross range markets** (e.g., "Will [Movie] gross <$44M in Weekend 3?"):
+1. Check the **current estimate** and **range slider** — is consensus already near the target?
+2. Look at **drop comps** — if similar family films dropped 55–63% by Wk3, what range does the current trajectory imply?
+3. Compare **market probability bars** against the comps — is the 93¢ on <44M justified, or is there value on a higher bracket?
 
-**For total gross markets** (e.g., "Will [Movie] gross $X million domestic?"):
-1. Check the current running total
-2. Apply the projected decay curve to estimate remaining weekends
-3. Factor in awards season exposure or other longevity drivers
+**For cumulative gross markets:**
+1. Use the legs multiplier — 2.35x legs means the film is expected to earn 2.35× its opening weekend in total
+2. Track weekly decline rate vs. comparable films
 
 ---
 
 ## Markets Where This Panel Activates
 
-- Opening weekend box office markets
-- Total domestic gross markets
-- International box office markets
-- Awards (Oscars) markets where box office performance is a factor
+- Weekend box office gross markets (Wk1, Wk2, Wk3, etc.)
+- Cumulative domestic or worldwide gross markets
+- Any market involving a specific film's theatrical performance
