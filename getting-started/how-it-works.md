@@ -146,7 +146,22 @@ Features are organized into three categories:
 |---|---|
 | Sports Intel | ESPN standings & recent games |
 | Bookmaker Odds | Live Pinnacle/Betfair odds vs Polymarket prices |
-| Pentagon Pizza Index | Geopolitical activity tracker |
+| Pentagon Pizza Index | DOUGHCON indicator (OSINT) |
+| Conflict Monitor | NASA satellite fire detection for conflict zones |
+| Frontline Maps | ISW conflict maps for territorial markets |
+| UFC Context | Fighter profiles, records, rankings |
+| Esports Context | LoL, Valorant, Dota 2 standings & teams |
+| MrBeast Intel | View velocity & attention signal for YouTube events |
+| AI Arena | Chatbot Arena rankings & benchmarks for AI model markets |
+| Box Office | Daily grosses, projections & comparables for movie markets |
+| Polls Intel | Polling data vs market prices for elections |
+
+**Tools**
+| Feature | Description |
+|---|---|
+| Bonds Scanner | High-probability market yield scanner |
+| Update Notifier | Notifies when a newer version is on the store |
+| Profile Enhancer | Extended trader analytics on profile pages |
 
 Every toggle saves instantly — no need to reload the page.
 
