@@ -1,62 +1,76 @@
 # Top Holders PnL
 
-The **Top Holders PnL** panel reveals how the largest position holders in a market are performing — giving you a real-time view of smart money flows.
+The **Top Holders PnL** panel shows how the biggest position holders in a market are performing — split by YES and NO side, across multiple time periods.
 
-<figure><img src="../.gitbook/assets/top-holders-pnl.png" alt="Top Holders PnL Panel"><figcaption>Top Holders PnL panel showing position performance data</figcaption></figure>
+The panel is accessible via the tab icon in the **top right corner** of every market page.
+
+<figure><img src="../.gitbook/assets/top-holders-pnl.png" alt="Top Holders PnL Panel"><figcaption>Top Holders PnL — choose 10, 20, or 50 top holders to analyze</figcaption></figure>
 
 ---
 
-## What It Shows
+## Holder Count Selector
 
-For each major position holder in the market, the panel displays:
+At the top of the panel, choose how many top holders you want to analyze:
 
-| Field | Description |
+| Option | What It Shows |
 |---|---|
-| Wallet Address | Shortened address (clickable to view full history) |
-| Position | YES or NO, and the size (shares held) |
-| Avg. Entry Price | The average price they paid per share |
-| Current PnL | Unrealized profit or loss at current odds |
-| Time Windows | Performance over 24h, 7d, and 30d periods |
+| **10** | The 10 largest position holders |
+| **20** | The 20 largest position holders |
+| **50** | The 50 largest position holders |
+
+Switching between 10/20/50 instantly updates the PnL table — useful for checking whether the signal holds beyond just the very top players.
+
+---
+
+## What the Table Shows
+
+The PnL table is split by **position side** and **time period**:
+
+|  | 24H | 7D | 30D | ALL |
+|---|---|---|---|---|
+| **YES** | Net PnL of top YES holders | | | |
+| **NO** | Net PnL of top NO holders | | | |
+
+- **Green** = net positive PnL for that group over that period
+- **Red** = net negative PnL for that group over that period
+
+**Example read:** if the top 20 NO holders are sitting at +$708K over 30 days and +$1.9M all-time, while YES holders are negative over the same periods — the smart money is clearly on NO.
 
 ---
 
 ## Time Period Views
 
-Switch between three views using the tabs at the top of the panel:
-
-- **24h** — Who made or lost money today? Useful for identifying recent market movers
-- **7d** — Weekly performance — shows who has been consistently right
-- **30d** — Long-term view — identifies the most reliable traders in this market
+| Period | What It Reveals |
+|---|---|
+| **24H** | Who is winning today — recent momentum |
+| **7D** | Weekly performance — short-term accuracy |
+| **30D** | Monthly view — who has been consistently right |
+| **ALL** | All-time PnL in this market — the full track record |
 
 ---
 
 ## Why This Is Powerful
 
-### Follow Smart Money
-When the most profitable traders in a market are heavily positioned on one side, it's a signal worth paying attention to. The PnL data shows you not just *what* people are holding, but *how well they're doing* — letting you distinguish lucky from skilled.
+### Read the Smart Money Side
+The YES/NO split shows you which side the most profitable traders are on — and how long they've been right. A group of top holders sitting on +$1.9M all-time PnL is a different signal than one sitting at -$300K.
 
-### Spot Informed Traders
-Large positions combined with strong PnL history often indicate informed traders — participants with real research or insider knowledge of the outcome. This is especially relevant for:
-- Political markets (campaigns, insiders)
-- Crypto markets (protocol teams, VCs)
-- Sports markets (team insiders, injury knowledge)
+### Spot Conviction vs. Bag Holding
+- **Strong positive PnL across 7D and 30D** → Top holders on this side have been consistently right. High conviction signal.
+- **Negative PnL + large position** → These holders may be averaging down or stuck. Potential contrarian signal.
+- **Divergence between 24H and 30D** → Something shifted recently. Worth investigating what changed.
 
-### Identify Whale Positioning
-Large position changes by top holders can signal new information entering the market — even before it shows up in price movement.
-
-<figure><img src="../.gitbook/assets/top-holders-detail.png" alt="Detailed holder view"><figcaption>Clicking a holder shows their full position history</figcaption></figure>
+### Informed Traders Leave Traces
+Large positions combined with strong long-term PnL often indicate informed participants — traders with real research or inside knowledge. Especially relevant for political, crypto, and sports markets.
 
 ---
 
 ## How to Interpret the Data
 
-**High positive PnL across 7d and 30d** → This holder has been consistently right. Their current position is worth tracking closely.
+**Top 20 NO holders at +$1.9M all-time, YES holders negative** → The large money has been right on NO for the entire life of this market. Strong directional signal.
 
-**Large position + near-zero PnL** → Big holder who entered recently or at current odds. Neutral signal — they haven't been proven right or wrong yet.
+**Both sides negative across all periods** → Market is genuinely uncertain — even the largest traders are struggling to profit. Price is likely fair.
 
-**Negative PnL + large position** → This holder may be averaging down or "bag holding." A contrarian signal — consider whether the market has moved against them for a reason.
-
-**Multiple top holders all on the same side** → Strong directional consensus among largest traders. Can indicate a well-researched consensus or a crowded trade (risk of sharp reversal if they exit).
+**Positive 24H but negative 30D for a side** → Recent reversal. Something changed — check news, recent trades, or odds movement.
 
 ---
 
@@ -67,8 +81,8 @@ PnL data is **unrealized** — it reflects the current market price, not final s
 {% endhint %}
 
 - Wallet addresses are pseudonymous — you cannot verify identity without additional research
-- Large holders may be hedging across multiple markets (a big YES position here might be a hedge against another trade)
-- PnL doesn't account for gas fees or trading costs on Polymarket
+- Large holders may be hedging across multiple markets
+- PnL is calculated on current odds, not accounting for trading costs
 
 ---
 
