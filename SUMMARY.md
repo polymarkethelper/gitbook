@@ -27,6 +27,11 @@
 * [Bonds Tracker](features/bonds-tracker.md)
 * [Comments Filter](features/comments-filter.md)
 * [Rewards Pool Calculator](features/rewards-calculator.md)
+* [UFC Context](features/ufc-context.md)
+* [Esports Context](features/esports-context.md)
+* [MrBeast Intel](features/mrbeast-intel.md)
+* [Trader Tracker](features/trader-tracker.md)
+* [Profile Enhancer](features/profile-enhancer.md)
 
 ## Rewards Program
 * [Points & Airdrop](rewards/program.md)
