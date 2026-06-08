@@ -8,7 +8,7 @@
 
 ## What is PolyHelper?
 
-**PolyHelper** is a browser extension that supercharges your [Polymarket](https://polymarket.com) trading experience. It adds 20+ specialized intelligence panels directly into the Polymarket interface — without modifying or replacing any native features of the platform.
+**PolyHelper** is a browser extension that supercharges your [Polymarket](https://polymarket.com) trading experience. It adds 25+ specialized intelligence panels directly into the Polymarket interface — without modifying or replacing any native features of the platform.
 
 Whether you're trading crypto markets, sports outcomes, political events, or geopolitical developments, PolyHelper gives you the contextual data you need to make smarter decisions — right where you trade.
 
@@ -29,7 +29,7 @@ Whether you're trading crypto markets, sports outcomes, political events, or geo
 
 ## Key Highlights
 
-- **20+ specialized data panels** covering crypto, sports, politics, macro, geopolitics, and more
+- **25+ specialized data panels** covering crypto, sports, politics, macro, geopolitics, and more
 - **Non-invasive** — works alongside Polymarket's native interface, never replacing it
 - **Real-time data** — live prices, scores, news, and market intelligence
 - **Fully customizable** — turn off any tool you don't need via the settings panel, tailoring PolyHelper to your personal trading style
@@ -54,7 +54,7 @@ Whether you're trading crypto markets, sports outcomes, political events, or geo
     </tr>
     <tr>
       <td><strong>🔧 Explore Tools</strong></td>
-      <td><a href="features/overview.md">Browse all 20+ analytics tools</a></td>
+      <td><a href="features/overview.md">Browse all 25+ analytics tools</a></td>
     </tr>
     <tr>
       <td><strong>🎁 Earn Rewards</strong></td>
