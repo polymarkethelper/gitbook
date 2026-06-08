@@ -5,7 +5,7 @@
 ## General
 
 ### What is PolyHelper?
-PolyHelper is a browser extension that adds 20+ analytics and intelligence panels to Polymarket. It gives you real-time data — crypto prices, sports scores, polling averages, geopolitical intelligence, and more — directly inside the Polymarket interface, without needing to switch between tabs.
+PolyHelper is a browser extension that adds 25+ analytics and intelligence panels to Polymarket. It gives you real-time data — crypto prices, sports scores, polling averages, geopolitical intelligence, and more — directly inside the Polymarket interface, without needing to switch between tabs.
 
 ### Is PolyHelper free?
 Yes. PolyHelper is free to install and use. Download it from the Chrome Web Store.
