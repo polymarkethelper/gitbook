@@ -94,7 +94,8 @@ PolyHelper aggregates data from established, trusted sources. While we aim for h
 
 ### Where can I get help?
 - **Discord:** [discord.gg/2RfMcye8fG](https://discord.gg/2RfMcye8fG) → `#support` channel
-- **Telegram:** [t.me/polyhelper](https://t.me/polyhelper)
+- **Telegram Support:** [t.me/polyhelpers](https://t.me/polyhelpers)
+- **Telegram Community:** [t.me/polyhelpercommunity](https://t.me/polyhelpercommunity)
 - **X:** DM [@Poly_Helper](https://x.com/Poly_Helper)
 
 ### How do I report a bug?
