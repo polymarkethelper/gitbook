@@ -1,67 +1,87 @@
 # Rewards Pool Calculator
 
-The **Rewards Pool Calculator** helps liquidity providers on Polymarket estimate their potential earnings from the LP rewards program — making it easy to calculate returns before committing capital.
+The **Rewards Pool Calculator** helps liquidity providers on Polymarket evaluate LP rewards opportunities across all market outcome brackets — including **competition level indicators** that show at a glance where the edge is.
 
-<figure><img src="../.gitbook/assets/rewards-calculator.png" alt="Rewards Pool Calculator"><figcaption>LP Rewards Calculator showing estimated earnings</figcaption></figure>
+<figure><img src="../.gitbook/assets/rewards-calculator.png" alt="Rewards Pool Calculator"><figcaption>LP rewards view showing competition levels — green is low competition, red is high</figcaption></figure>
 
 ---
 
 ## Background: Polymarket LP Rewards
 
-Polymarket runs a **liquidity provider (LP) rewards program** that incentivizes traders to provide liquidity to markets by placing limit orders. LPs earn a share of a rewards pool proportional to:
-
-1. The amount of liquidity they provide
-2. How close to the current market price their orders are placed
+Polymarket runs a **liquidity provider (LP) rewards program** that incentivizes traders to place limit orders. LPs earn a share of a daily rewards pool proportional to:
+1. The amount of liquidity provided
+2. How close to the current price their orders are placed
 3. How long their orders remain active
-
-Understanding how much you can earn from LP rewards — before you commit capital — is what the Rewards Pool Calculator enables.
 
 ---
 
-## What the Calculator Shows
+## What the Panel Shows
 
-### Input Fields
-Enter your intended liquidity position:
-- **Order size** — how much USDC you plan to commit
-- **Spread** — how far from mid-price your orders are placed (tighter spread = more rewards, more risk)
-- **Duration** — how long you plan to keep orders active
+### Competition Level Indicators
 
-### Output Estimates
-- **Estimated daily rewards** (points / USDC equivalent)
-- **Estimated weekly rewards**
-- **Estimated monthly rewards**
-- **APY equivalent** — annualized return on your committed capital
-- **Your estimated share of the total rewards pool** (%)
+Each market outcome bracket is color-coded to show how competitive the LP environment is:
 
-### Pool Share Visualization
-See how your position compares to the total liquidity in the market — helping you understand whether you'll be a small or significant contributor to the pool.
+| Color | Meaning |
+|---|---|
+| 🟢 **Green** | Low competition — fewer LPs on this side, easier to earn rewards |
+| 🔴 **Red** | High competition — crowded side, harder to capture a meaningful share |
 
-<figure><img src="../.gitbook/assets/rewards-calculator-output.png" alt="Calculator output view"><figcaption>Estimated earnings breakdown by timeframe</figcaption></figure>
+This color system lets you instantly spot where the best LP opportunities are without manually calculating pool share.
+
+### Per-Bracket Data
+
+For each outcome bracket (e.g., >$800M, >$1B, >$1.5B):
+
+| Field | Description |
+|---|---|
+| **Current probability %** | Polymarket's current price for this outcome |
+| **% change** | Recent movement (▲ = price rising) |
+| **Daily rewards** | Total rewards pool allocated per day (e.g., $800/day) |
+| **Sponsored** | Additional sponsored rewards if applicable |
+| **Remaining** | How much of the reward pool is still unclaimed (~$422 left) |
+| **Buy Yes / Buy No** | Current bid prices with competition color indicator |
+
+### Example Read
+
+```
+>$1B   98% ▲13%   $801/day ($0.55 sponsored) · ~$422 left
+         Buy Yes 98.6¢ [green]   Buy No 2.0¢ [red]
+```
+
+→ The YES side at 98.6¢ is green (low competition) — most LPs are crowding the NO side. If you provide YES liquidity here, you capture a larger share of the $801/day pool.
 
 ---
 
 ## How to Use It
 
-**Step 1:** Find a market you want to provide liquidity to on Polymarket
+**Step 1:** Look for **green brackets** — these are the lowest-competition LP opportunities right now
 
-**Step 2:** Open the Rewards Pool Calculator panel on that market's page
+**Step 2:** Check the **daily rewards** and **remaining pool** — higher rewards + more remaining = better opportunity
 
-**Step 3:** Enter your intended position size and spread
+**Step 3:** Consider the **probability** — providing liquidity near 99¢ on a near-certain outcome is low risk but also low edge; brackets with 40–60% probability carry more adverse selection risk
 
-**Step 4:** Review the estimated rewards — compare the APY to your risk exposure
-
-**Step 5:** If the returns look attractive, go to Polymarket's order book and place your limit orders
+**Step 4:** Place limit orders in Polymarket's order book at your chosen bracket
 
 ---
 
-## Understanding the Trade-offs
+## Understanding Competition & Risk
 
-| Tighter Spread | Wider Spread |
+| Situation | What It Means |
 |---|---|
-| Higher rewards | Lower rewards |
-| More risk of adverse selection | Less exposure to informed traders |
+| Green YES + high daily rewards | Best LP opportunity — low competition, meaningful payout |
+| Red on both sides | Crowded market — LP earnings will be split among many providers |
+| High remaining pool | Earlier in the reward period — more to earn |
+| Near-zero remaining | Pool almost exhausted for this period |
+
+---
+
+## Trade-offs for LP Providers
+
+| Tighter to market price | Further from market price |
+|---|---|
+| Higher rewards weight | Lower rewards weight |
+| More adverse selection risk | Less exposure to informed traders |
 | Orders fill more often | Orders fill less often |
-| Better for stable, well-priced markets | Better for volatile, uncertain markets |
 
 {% hint style="info" %}
 LP rewards are separate from PolyHelper's own [points & airdrop program](../rewards/program.md). You can earn both simultaneously.
@@ -69,6 +89,6 @@ LP rewards are separate from PolyHelper's own [points & airdrop program](../rewa
 
 ---
 
-## Markets Where This Panel Activates
+## Markets Where This Feature Activates
 
-The Rewards Pool Calculator is available on all Polymarket markets that have an active LP rewards program. Markets with higher trading volume and rewards pool allocations will show higher estimated returns.
+Available on all Polymarket markets that have an active LP rewards program.
