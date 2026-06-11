@@ -71,7 +71,7 @@ The main landing page with:
 |---|---|---|
 | Valeriy | CMO, Co-Founder | [@0xd1namit](https://x.com/0xd1namit) |
 | Andrey | CTO, Co-Founder | — |
-| Stanislav | Growth Lead | — |
+| Stanislav | Growth Lead | [@AdzProsperous](https://x.com/AdzProsperous) |
 | Alex | CBDO | — |
 
 ---
