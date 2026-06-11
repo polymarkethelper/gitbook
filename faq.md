@@ -97,6 +97,7 @@ PolyHelper aggregates data from established, trusted sources. While we aim for h
 - **Telegram Support:** [t.me/polyhelpers](https://t.me/polyhelpers)
 - **Telegram Community:** [t.me/polyhelpercommunity](https://t.me/polyhelpercommunity)
 - **X:** DM [@Poly_Helper](https://x.com/Poly_Helper)
+- **Email:** [polymarkethelper@gmail.com](mailto:polymarkethelper@gmail.com)
 
 ### How do I report a bug?
 Post in `#feedback` on Discord with a description of the issue, your browser version, and any screenshots that help illustrate the problem.
