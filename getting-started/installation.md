@@ -107,3 +107,4 @@ Your Polymarket account and funds are completely unaffected by installing or uni
 **Still having issues?**
 - Join our [Discord](https://discord.gg/2RfMcye8fG) or [Telegram](https://t.me/polyhelper) for support
 - DM us on [Telegram](https://t.me/polyhelpers)
+- Email us at [polymarkethelper@gmail.com](mailto:polymarkethelper@gmail.com)
