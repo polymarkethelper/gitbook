@@ -22,7 +22,7 @@ Points are earned through various activities within the PolyHelper ecosystem. Th
 | Social Tasks | +0.5 points per completed task |
 
 ### Daily Claim
-Log in to PolyHelper every day and claim your daily 0.5 points. Simple, free, and compounds over time.
+Make any trade on Polymarket and claim your daily 0.5 points. Volume doesn't matter — even a 1 cent trade counts. Simple, free, and compounds over time.
 
 ### Trading Volume
 Points scale with your Polymarket trading activity:
