@@ -98,3 +98,4 @@ For technical support or bug reports:
 
 For business inquiries and partnerships:
 - Contact Alex (CBDO) via [LinkedIn](https://www.linkedin.com/in/alex-onishenko/)
+- Email: [polymarkethelper@gmail.com](mailto:polymarkethelper@gmail.com)
