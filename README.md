@@ -38,6 +38,18 @@ Whether you're trading crypto markets, sports outcomes, political events, or geo
 
 ---
 
+## Community
+
+Join thousands of traders already using PolyHelper:
+
+- **Twitter/X:** [@Poly_Helper](https://x.com/Poly_Helper)
+- **Telegram Channel:** [t.me/polyhelper](https://t.me/polyhelper)
+- **Telegram Community:** [t.me/polyhelpercommunity](https://t.me/polyhelpercommunity)
+- **Discord:** [discord.gg/2RfMcye8fG](https://discord.gg/2RfMcye8fG)
+- **Website:** [polyhelper.io](https://polyhelper.io)
+
+---
+
 ## Quick Navigation
 
 <table data-view="cards">
@@ -62,15 +74,3 @@ Whether you're trading crypto markets, sports outcomes, political events, or geo
     </tr>
   </tbody>
 </table>
-
----
-
-## Community
-
-Join thousands of traders already using PolyHelper:
-
-- **Twitter/X:** [@Poly_Helper](https://x.com/Poly_Helper)
-- **Telegram Channel:** [t.me/polyhelper](https://t.me/polyhelper)
-- **Telegram Community:** [t.me/polyhelpercommunity](https://t.me/polyhelpercommunity)
-- **Discord:** [discord.gg/2RfMcye8fG](https://discord.gg/2RfMcye8fG)
-- **Website:** [polyhelper.io](https://polyhelper.io)
