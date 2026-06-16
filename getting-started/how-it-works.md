@@ -8,34 +8,29 @@ PolyHelper is a **browser extension** built on the Chrome Extensions (Manifest V
 
 ## Architecture
 
-```
-Polymarket Page (polymarket.com)
-         │
-         ▼
-  PolyHelper Extension
-  ┌─────────────────────────────────────┐
-  │                                     │
-  │   Content Scripts                   │
-  │   └─ Detect current market type     │
-  │   └─ Inject sidebar panels          │
-  │                                     │
-  │   Background Service Worker         │
-  │   └─ Fetch data from APIs           │
-  │   └─ Cache and refresh data         │
-  │                                     │
-  │   Data Sources                      │
-  │   └─ Crypto price feeds             │
-  │   └─ Sports data APIs               │
-  │   └─ News aggregation (X/Twitter)   │
-  │   └─ Polling averages               │
-  │   └─ Macro economic indicators      │
-  │   └─ Geopolitical intelligence      │
-  │                                     │
-  └─────────────────────────────────────┘
-         │
-         ▼
-  Enhanced Polymarket UI
-  (Your panels, your data, your edge)
+```mermaid
+flowchart TD
+    A([🌐 Polymarket Page]) --> B
+
+    subgraph B[PolyHelper Extension]
+        C[Content Scripts\nDetect market type · Inject panels]
+        D[Background Service Worker\nFetch data · Cache · Refresh]
+        E[(Data Sources)]
+
+        subgraph E[Data Sources]
+            E1[Crypto price feeds]
+            E2[Sports data APIs]
+            E3[News · X/Twitter]
+            E4[Polling averages]
+            E5[Macro indicators]
+            E6[Geopolitical intel]
+        end
+
+        C <--> D
+        D --> E
+    end
+
+    B --> F([✅ Enhanced Polymarket UI\nYour panels · Your data · Your edge])
 ```
 
 ---
