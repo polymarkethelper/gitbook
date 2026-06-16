@@ -33,7 +33,7 @@ Whether you're trading crypto markets, sports outcomes, political events, or geo
 - **Non-invasive** — works alongside Polymarket's native interface, never replacing it
 - **Real-time data** — live prices, scores, news, and market intelligence
 - **Fully customizable** — turn off any tool you don't need via the settings panel, tailoring PolyHelper to your personal trading style
-- **Rewards program** — earn points toward a potential Polymarket airdrop
+- **Rewards program** — earn points toward a [PolyHelper airdrop](https://x.com/Poly_Helper/status/2038642523141259654?s=20)
 - **Free to install** via the Chrome Web Store
 
 ---
