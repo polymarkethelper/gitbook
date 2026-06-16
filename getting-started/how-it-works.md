@@ -8,30 +8,56 @@ PolyHelper is a **browser extension** built on the Chrome Extensions (Manifest V
 
 ## Architecture
 
-```mermaid
-flowchart TD
-    A([🌐 Polymarket Page]) --> B
+<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:580px;margin:0 auto;padding:8px">
 
-    subgraph B[PolyHelper Extension]
-        C[Content Scripts\nDetect market type · Inject panels]
-        D[Background Service Worker\nFetch data · Cache · Refresh]
-        E[(Data Sources)]
+  <div style="background:#eef2ff;border:1.5px solid #c7d2fe;border-radius:12px;padding:14px 20px;display:flex;align-items:center;gap:10px">
+    <span style="font-size:20px">🌐</span>
+    <div>
+      <div style="font-weight:700;color:#3730a3;font-size:14px">polymarket.com</div>
+      <div style="color:#6366f1;font-size:11px">Prediction market platform</div>
+    </div>
+  </div>
 
-        subgraph E[Data Sources]
-            E1[Crypto price feeds]
-            E2[Sports data APIs]
-            E3[News · X/Twitter]
-            E4[Polling averages]
-            E5[Macro indicators]
-            E6[Geopolitical intel]
-        end
+  <div style="text-align:center;color:#a5b4fc;font-size:22px;line-height:1;padding:6px 0">↓</div>
 
-        C <--> D
-        D --> E
-    end
+  <div style="background:#0f172a;border-radius:16px;padding:20px;border:1px solid #1e293b">
+    <div style="font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:#475569;margin-bottom:14px;font-weight:600">PolyHelper Extension</div>
 
-    B --> F([✅ Enhanced Polymarket UI\nYour panels · Your data · Your edge])
-```
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:10px">
+      <div style="background:#1e293b;border-radius:10px;padding:14px;border:1px solid #334155">
+        <div style="font-size:12px;font-weight:700;color:#60a5fa;margin-bottom:6px">⚡ Content Scripts</div>
+        <div style="font-size:11px;color:#64748b;line-height:1.7">Detect market type<br>Inject sidebar panels</div>
+      </div>
+      <div style="background:#1e293b;border-radius:10px;padding:14px;border:1px solid #334155">
+        <div style="font-size:12px;font-weight:700;color:#60a5fa;margin-bottom:6px">⚙️ Background Worker</div>
+        <div style="font-size:11px;color:#64748b;line-height:1.7">Fetch data from APIs<br>Cache &amp; refresh data</div>
+      </div>
+    </div>
+
+    <div style="background:#1e293b;border-radius:10px;padding:14px;border:1px solid #334155">
+      <div style="font-size:12px;font-weight:700;color:#60a5fa;margin-bottom:12px">📡 Data Sources</div>
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:6px">
+        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">₿ Crypto feeds</div>
+        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">🏆 Sports APIs</div>
+        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">📰 News / X</div>
+        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">📊 Polling data</div>
+        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">📈 Macro econ</div>
+        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">🌍 Geopolitics</div>
+      </div>
+    </div>
+  </div>
+
+  <div style="text-align:center;color:#a5b4fc;font-size:22px;line-height:1;padding:6px 0">↓</div>
+
+  <div style="background:linear-gradient(135deg,#3b82f6 0%,#4f46e5 100%);border-radius:12px;padding:16px 20px;display:flex;align-items:center;gap:10px">
+    <span style="font-size:20px">✅</span>
+    <div>
+      <div style="font-weight:700;color:#fff;font-size:14px">Enhanced Polymarket UI</div>
+      <div style="color:#bfdbfe;font-size:11px">Your panels · Your data · Your edge</div>
+    </div>
+  </div>
+
+</div>
 
 ---
 
