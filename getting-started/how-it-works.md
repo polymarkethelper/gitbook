@@ -8,56 +8,44 @@ PolyHelper is a **browser extension** built on the Chrome Extensions (Manifest V
 
 ## Architecture
 
-<div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:580px;margin:0 auto;padding:8px">
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#1e293b', 'primaryTextColor': '#e2e8f0', 'primaryBorderColor': '#3b82f6', 'lineColor': '#3b82f6', 'secondaryColor': '#0f172a', 'edgeLabelBackground': '#0f172a', 'clusterBkg': '#0f172a', 'clusterBorder': '#1e293b', 'titleColor': '#60a5fa', 'nodeTextColor': '#e2e8f0', 'fontFamily': 'ui-sans-serif, system-ui, sans-serif'}}}%%
 
-  <div style="background:#eef2ff;border:1.5px solid #c7d2fe;border-radius:12px;padding:14px 20px;display:flex;align-items:center;gap:10px">
-    <span style="font-size:20px">🌐</span>
-    <div>
-      <div style="font-weight:700;color:#3730a3;font-size:14px">polymarket.com</div>
-      <div style="color:#6366f1;font-size:11px">Prediction market platform</div>
-    </div>
-  </div>
+flowchart TD
+    PM(["🌐  polymarket.com"])
 
-  <div style="text-align:center;color:#a5b4fc;font-size:22px;line-height:1;padding:6px 0">↓</div>
+    subgraph EXT["  PolyHelper Extension  "]
+        direction TB
+        CS["⚡ Content Scripts\n─────────────────\nDetect market type\nInject sidebar panels"]
+        BW["⚙️ Background Worker\n─────────────────\nFetch data from APIs\nCache & refresh"]
 
-  <div style="background:#0f172a;border-radius:16px;padding:20px;border:1px solid #1e293b">
-    <div style="font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:#475569;margin-bottom:14px;font-weight:600">PolyHelper Extension</div>
+        subgraph DS["  📡 Data Sources  "]
+            direction LR
+            D1["₿ Crypto"] ~~~ D2["🏆 Sports"] ~~~ D3["📰 News"]
+            D4["📊 Polls"] ~~~ D5["📈 Macro"] ~~~ D6["🌍 Geo"]
+        end
 
-    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:10px">
-      <div style="background:#1e293b;border-radius:10px;padding:14px;border:1px solid #334155">
-        <div style="font-size:12px;font-weight:700;color:#60a5fa;margin-bottom:6px">⚡ Content Scripts</div>
-        <div style="font-size:11px;color:#64748b;line-height:1.7">Detect market type<br>Inject sidebar panels</div>
-      </div>
-      <div style="background:#1e293b;border-radius:10px;padding:14px;border:1px solid #334155">
-        <div style="font-size:12px;font-weight:700;color:#60a5fa;margin-bottom:6px">⚙️ Background Worker</div>
-        <div style="font-size:11px;color:#64748b;line-height:1.7">Fetch data from APIs<br>Cache &amp; refresh data</div>
-      </div>
-    </div>
+        CS <--> BW
+        BW --> DS
+    end
 
-    <div style="background:#1e293b;border-radius:10px;padding:14px;border:1px solid #334155">
-      <div style="font-size:12px;font-weight:700;color:#60a5fa;margin-bottom:12px">📡 Data Sources</div>
-      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:6px">
-        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">₿ Crypto feeds</div>
-        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">🏆 Sports APIs</div>
-        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">📰 News / X</div>
-        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">📊 Polling data</div>
-        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">📈 Macro econ</div>
-        <div style="background:#0f172a;border-radius:7px;padding:8px;text-align:center;font-size:10px;color:#94a3b8;border:1px solid #1e293b">🌍 Geopolitics</div>
-      </div>
-    </div>
-  </div>
+    UI(["✅  Enhanced Polymarket UI\nYour panels · Your data · Your edge"])
 
-  <div style="text-align:center;color:#a5b4fc;font-size:22px;line-height:1;padding:6px 0">↓</div>
+    PM --> EXT
+    EXT --> UI
 
-  <div style="background:linear-gradient(135deg,#3b82f6 0%,#4f46e5 100%);border-radius:12px;padding:16px 20px;display:flex;align-items:center;gap:10px">
-    <span style="font-size:20px">✅</span>
-    <div>
-      <div style="font-weight:700;color:#fff;font-size:14px">Enhanced Polymarket UI</div>
-      <div style="color:#bfdbfe;font-size:11px">Your panels · Your data · Your edge</div>
-    </div>
-  </div>
-
-</div>
+    style PM fill:#312e81,stroke:#6366f1,color:#e0e7ff
+    style CS fill:#1e293b,stroke:#3b82f6,color:#e2e8f0
+    style BW fill:#1e293b,stroke:#3b82f6,color:#e2e8f0
+    style DS fill:#0f172a,stroke:#1e293b,color:#94a3b8
+    style D1 fill:#0f172a,stroke:#1e293b,color:#64748b
+    style D2 fill:#0f172a,stroke:#1e293b,color:#64748b
+    style D3 fill:#0f172a,stroke:#1e293b,color:#64748b
+    style D4 fill:#0f172a,stroke:#1e293b,color:#64748b
+    style D5 fill:#0f172a,stroke:#1e293b,color:#64748b
+    style D6 fill:#0f172a,stroke:#1e293b,color:#64748b
+    style UI fill:#1d4ed8,stroke:#3b82f6,color:#fff
+```
 
 ---
 
