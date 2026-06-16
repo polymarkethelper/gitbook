@@ -35,6 +35,18 @@ Each category requires different external data sources to research properly. Wit
 
 ---
 
+## Why Polymarket Will Never Build This
+
+Polymarket is a retail-first platform. Its priority is simplicity and accessibility for the widest possible audience — and that's by design.
+
+That means features like **copy trading**, **trader tracking**, **bookmaker odds comparison**, **smart money analytics**, and **deep per-category research tools** are not on their roadmap. These are advanced tools for serious traders, and Polymarket will never prioritize them over the core product.
+
+PolyHelper builds exactly what Polymarket won't.
+
+We add the layer of features that serious traders need — without touching Polymarket's interface, wallet, or order book. The result is a **pro version of Polymarket**: everything you already know and use, with the full trading toolkit on top.
+
+---
+
 ## How It's Different
 
 Unlike other tools that try to replace or mirror Polymarket, PolyHelper works **alongside** the native platform:
@@ -60,5 +72,5 @@ PolyHelper is designed for:
 ## Website & Extension
 
 - **Website:** [polyhelper.io](https://polyhelper.io)
-- **Chrome Web Store:** [Install Extension](https://polyhelper.io)
+- **Chrome Web Store:** [Install Extension](https://chromewebstore.google.com/detail/polyhelper/mebiclnfcnknilfaoanimpaeimjlafmg?utm_source=item-share-cb)
 - **Twitter/X:** [@Poly_Helper](https://x.com/Poly_Helper)
