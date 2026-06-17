@@ -7,6 +7,8 @@
 * [What is PolyHelper?](getting-started/what-is-polyhelper.md)
 * [Installation Guide](getting-started/installation.md)
 * [How It Works](getting-started/how-it-works.md)
+* [Customization](getting-started/customization.md)
+* [Privacy & Security](getting-started/privacy-security.md)
 
 ## Analytics Tools
 * [Overview](features/overview.md)
