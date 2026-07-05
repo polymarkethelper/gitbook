@@ -4,7 +4,7 @@ The FOMC meeting is coming up — are you ready? **Macro Intel** puts the Fed ra
 
 Open it via the **Econ** icon in the right-side panel navigation.
 
-<figure><img src="../.gitbook/assets/macro-intel.png" alt="Macro Intel Panel"><figcaption>Macro Intel — Fed Rate 3.75%, next FOMC release Apr 28, with related macro indicators</figcaption></figure>
+![Macro Intel Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/macro-intel.png)
 
 ---
 
