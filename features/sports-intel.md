@@ -4,7 +4,7 @@ The **Sports Intel** panel loads matchup data and live standings directly inside
 
 Open it via the **Sports** icon in the right-side panel navigation.
 
-<figure><img src="../.gitbook/assets/sports-intel.png" alt="Sports Intel Panel — La Liga matchup"><figcaption>Sports Intel showing Atlético Madrid vs Barcelona: recent form, last 5 matches, and current La Liga standings</figcaption></figure>
+![Sports Intel Panel — La Liga matchup](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/sports-intel.png)
 
 ---
 
@@ -51,7 +51,7 @@ Full league standings table for the relevant competition, including:
 
 The two teams in the matchup are highlighted in the standings table for quick reference.
 
-<figure><img src="../.gitbook/assets/sports-intel-standings.png" alt="La Liga standings in Sports Intel"><figcaption>Live La Liga standings embedded in the Sports Intel panel</figcaption></figure>
+![La Liga standings in Sports Intel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/sports-intel-standings.png)
 
 ---
 
