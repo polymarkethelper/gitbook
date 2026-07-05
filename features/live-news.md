@@ -2,6 +2,8 @@
 
 The **Live News Tab** shows an X (Twitter) feed relevant to the current Polymarket market — keeping you updated without switching tabs.
 
+![Live News Tab](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/live-news.png)
+
 ---
 
 ## How It Works
