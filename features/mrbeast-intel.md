@@ -1,71 +1,83 @@
 # MrBeast Intel
 
-The **MrBeast Intel** panel tracks video velocity, view counts, and audience attention signals for YouTube-related Polymarket events — giving you real data to trade markets about YouTube content performance.
+Stop counting views manually every 10 minutes. **MrBeast Intel** tracks YouTube video velocity, performance status, and 24H projections — displayed directly on Polymarket without switching tabs.
 
-<figure><img src="../.gitbook/assets/mrbeast-intel.png" alt="MrBeast Intel Panel"><figcaption>MrBeast Intel panel showing video velocity signals</figcaption></figure>
+Created by traders for traders.
 
----
+Open it via the **MrBeast** icon in the right-side panel navigation.
 
-## What It Shows
-
-### Video Velocity
-Real-time and historical view count data for relevant videos:
-- Total views (current)
-- Views per hour (velocity)
-- Views per day trend
-- Rate of acceleration (is the video picking up or slowing down?)
-
-### Attention Signal
-Engagement metrics that indicate audience interest beyond just views:
-- Like count and like/view ratio
-- Comment volume
-- Share rate
-- Click-through rate signals (where available)
-
-### Channel Performance
-For creator-specific markets:
-- Subscriber count and recent growth
-- Average views per video (30-day average)
-- Upload frequency
-- Trending status
-
-### Comparison to Benchmarks
-How does the current video's performance compare to:
-- This creator's historical average
-- Similar videos in the same category
-- Top-performing videos on the platform
-
-<figure><img src="../.gitbook/assets/mrbeast-velocity.png" alt="Video velocity chart"><figcaption>View velocity trend for a YouTube market</figcaption></figure>
+![MrBeast Intel Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/mrbeast-intel.png)
 
 ---
 
-## Why This Matters
+## What the Panel Shows
 
-YouTube markets on Polymarket typically ask questions like:
-- "Will this video reach X million views by [date]?"
-- "Will [Creator] upload a video in [month]?"
-- "Which video will have more views?"
+### Current Speed & Status
+The top of the panel shows the live view velocity with an instant performance read:
 
-**Video velocity is the key signal.** A video that reaches 10M views in the first 48 hours is on a very different trajectory than one that slowly builds over weeks. The MrBeast Intel panel gives you the velocity data to assess where a video is heading.
+- **Views/hr** — current speed in real time (e.g., 538.6K views/hr)
+- **Performance status** — how the video is doing vs. its historical baseline:
+  - `Overperforming` — ahead of average
+  - `On Track` — performing as expected
+  - `Underperforming` — below average pace
+
+### Speed Selector
+Switch between time windows to see average speed over different periods:
+
+| Tab | What It Shows |
+|---|---|
+| **1h** | Speed over the last 1 hour |
+| **2h** | Speed over the last 2 hours |
+| **4h** | Speed over the last 4 hours |
+| **6h** | Speed over the last 6 hours |
+| **12h** | Speed over the last 12 hours |
+
+### Key Metrics
+
+| Metric | Description |
+|---|---|
+| **Speed** | Views per hour for the selected window + total views gained |
+| **VS Average** | Performance multiplier vs. the video's/channel's baseline (e.g., 0.5x = half the usual pace) |
+| **Trend** | Direction of momentum — Steady, Rising, or Falling |
+| **24H Projection** | Estimated total views by end of 24 hours based on current pace |
+
+### Views Per Hour Bar Chart
+Hourly bar chart showing view velocity over time. Reveals when the video peaked and how momentum is shifting.
+
+Time range selector: **6H · 12H · 24H · Full**
+
+### Total Views Line Chart
+Cumulative view count curve over time — shows the growth trajectory from upload to now.
+
+Time range selector: **1H · 12H · 24H · 48H · 7D**
+
+---
+
+## Data Refresh Rate
+
+The panel updates every **10 minutes** — giving you fresh data without any manual refreshing.
 
 ---
 
 ## How to Use It
 
 **For view count milestone markets** (e.g., "Will this video hit 100M views?"):
-1. Check current view count and how far from the target
-2. Look at the velocity trend — is it accelerating, stable, or decelerating?
-3. Compare to similar videos by the same creator — how long did they take to reach comparable milestones?
+1. Check the **24H Projection** — if the projection already puts the video past the milestone, the YES is likely underpriced
+2. Look at **VS Average** — 0.5x means it's running slow, 2x means it's viral. Calibrate your expectation accordingly
+3. Check the **Trend** — a Falling trend means deceleration; the projection may end up lower than shown
 
-**For upload markets** (e.g., "Will MrBeast upload a video this week?"):
-1. Check recent upload frequency — how often does this creator post?
-2. Look for any announced upcoming content
+**For view range markets** (e.g., "Will this video get 40–60M views in the first week?"):
+1. Use the **Total Views** chart to see the current cumulative count and trajectory
+2. Compare the pace to past videos from the same creator using the VS Average multiplier
+
+**For upload frequency markets**:
+- Active view tracking signals a video is live — useful for "Will [creator] upload this week?" markets
 
 ---
 
 ## Markets Where This Panel Activates
 
-- YouTube view count markets
+- YouTube view count and milestone markets
 - Creator upload frequency markets
 - Video performance and ranking markets
-- Any market involving YouTube content or creators
+- Any market involving YouTube content or channels
