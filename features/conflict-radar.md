@@ -1,89 +1,56 @@
-# Conflict Radar
+# Conflict Monitor
 
-The **Conflict Radar** panel displays active military operations and armed conflicts globally — giving traders a real-time situational awareness layer for geopolitical markets.
-
-<figure><img src="../.gitbook/assets/conflict-radar.png" alt="Conflict Radar Panel"><figcaption>Conflict Radar showing active global military operations</figcaption></figure>
+The **Conflict Monitor** panel uses NASA satellite thermal detection data to track military activity in conflict zones — giving you an objective, source-independent signal for geopolitical markets.
 
 ---
 
-## What It Shows
+## How It Works
 
-### Active Conflict Map
-A visual display of currently active armed conflicts and military operations worldwide, including:
-- Geographic location and theater of operations
-- Conflict type (interstate war, civil conflict, insurgency, etc.)
-- Intensity level (low, medium, high, active escalation)
-- Key actors involved
+NASA's FIRMS (Fire Information for Resource Management System) satellites detect thermal anomalies on Earth's surface — including fires and explosions from military operations. In active conflict zones, spikes in thermal detections correlate with intensified fighting.
 
-### Conflict Feed
-A real-time event feed showing:
-- Reported military actions (strikes, advances, withdrawals)
-- Casualty and equipment loss reports (from OSINT sources)
-- Ceasefire negotiations or peace talks
-- Third-party involvement (arms deliveries, military advisors, sanctions)
-
-### Key Metrics Per Conflict
-For each active conflict, the panel shows:
-- Duration (when the conflict started)
-- Territorial control changes (where available)
-- Recent major events (last 7 days)
+PolyHelper maps these detections to conflict zones relevant to active Polymarket markets and turns them into a readiness signal.
 
 ---
 
-## Data Sources
+## Activity Levels
 
-Conflict Radar aggregates data from trusted open-source intelligence (OSINT) organizations:
-
-- **ACLED** (Armed Conflict Location & Event Data Project) — academic-grade conflict data
-- **ISW** (Institute for the Study of War) — detailed operational assessments
-- Verified military analysts on X with established track records
-- Official government and military press releases
-
-All sources are clearly labeled so you can assess credibility independently.
+| Level | Meaning |
+|---|---|
+| 🟢 Normal | No significant thermal activity detected |
+| 🟡 Elevated | Above-average thermal detections in the zone |
+| 🟠 High | Significant spike — active military operations likely |
+| 🔴 Critical | Extreme thermal activity — major kinetic operations detected |
 
 ---
 
-## Use Cases
+## What the Panel Shows
 
-**Conflict outcome markets** (e.g., "Will [Country] control [City] by [date]?"):
-- Track territorial control changes in real time
-- Identify momentum shifts (sustained advances or retreats)
-
-**Escalation markets** (e.g., "Will [Country] conduct airstrikes on [Country]?"):
-- Monitor provocation events that precede airstrikes
-- Track rhetoric escalation from leadership
-
-**Ceasefire and peace markets** (e.g., "Will there be a ceasefire by [date]?"):
-- Monitor ongoing negotiation rounds
-- Track implementation of previous ceasefires
-
-**Casualty / equipment markets** (e.g., "Will losses exceed X by date?"):
-- Track OSINT-based loss estimates from verified analysts
+- **Activity level** — current status (Normal / Elevated / High / Critical)
+- **24h Activity Trend** — hourly chart of thermal detections over the past day
+- **Night activity %** — share of detections occurring at night (higher night activity = unusual)
+- **Hotspot clusters** — list of detected zones with intensity (Low / Moderate / High / Extreme) and detection count
+- **FRP (Fire Radiative Power)** — intensity measure of each thermal event
+- Link to view detections on the NASA map
 
 ---
 
-## How to Use It
+## Market Interpretation
 
-1. **Identify the conflict** relevant to your market using the map or search
-2. **Review recent events** in the conflict feed to understand current momentum
-3. **Cross-reference with the Pentagon Tracker** for US/NATO intelligence signals
-4. **Check Military Maps** for ISW's detailed assessment of territorial control
+| Level | Signal for conflict escalation markets |
+|---|---|
+| Normal | Bearish — low thermal activity suggests reduced operations |
+| Elevated | Watch — above-average, could indicate positioning |
+| High | Bullish — historically correlates with escalation phases |
+| Critical | Strong bullish — extreme anomalies indicate major operations |
 
----
-
-## Companion Tools
-
-Conflict Radar works best alongside:
-- [Pentagon Activity Tracker →](pentagon-tracker.md) — US/NATO intelligence signals
-- [Military Maps →](military-maps.md) — ISW situation reports and frontline maps
-- [Live News Tab →](live-news.md) — Breaking news from conflict reporters
+{% hint style="info" %}
+This is an OSINT signal based on satellite data, not a direct report of military activity. Use it alongside other sources.
+{% endhint %}
 
 ---
 
 ## Markets Where This Panel Activates
 
-- Military conflict and war outcome markets
+- Military conflict and escalation markets
 - Territorial control markets
-- Ceasefire and peace agreement markets
-- Arms and military aid markets
-- Any market involving active armed conflict
+- Any market where frontline activity in a conflict zone is relevant
