@@ -4,7 +4,9 @@ Stop bouncing between CoinMarketCap and CoinGecko. **Crypto Context** brings all
 
 Open it via the **Crypto** icon in the right-side panel navigation.
 
-![Crypto Context Panel — Bitcoin](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/crypto-context.png)
+| | |
+|---|---|
+| ![Crypto Context Panel — Bitcoin](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/crypto-context.png) | ![Crypto Context Panel — Ethereum](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/crypto-context-2.png) |
 
 ---
 
