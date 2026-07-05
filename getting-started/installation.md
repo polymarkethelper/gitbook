@@ -23,7 +23,7 @@ Getting started with PolyHelper takes less than 2 minutes. The extension is avai
 
 Go to the [PolyHelper page on the Chrome Web Store](https://chromewebstore.google.com/detail/polyhelper/mebiclnfcnknilfaoanimpaeimjlafmg?utm_source=item-share-cb) or visit [polyhelper.io](https://polyhelper.io) and click the **"Add to Chrome"** button.
 
-<figure><img src="../.gitbook/assets/install-step1.png" alt="Chrome Web Store page for PolyHelper"><figcaption>Chrome Web Store — PolyHelper listing</figcaption></figure>
+![Chrome Web Store page for PolyHelper](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/install-step1.png)
 
 ---
 
@@ -31,7 +31,7 @@ Go to the [PolyHelper page on the Chrome Web Store](https://chromewebstore.googl
 
 A confirmation popup will appear asking you to confirm the installation. Click **"Add extension"** to proceed.
 
-<figure><img src="../.gitbook/assets/install-step2.png" alt="Add to Chrome confirmation dialog"><figcaption>Click "Add extension" to confirm</figcaption></figure>
+![Add to Chrome confirmation dialog](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/install-step2.png)
 
 {% hint style="info" %}
 PolyHelper only requests permissions it needs to read Polymarket pages. It does not access your wallet, private keys, or any other browser data.
@@ -43,7 +43,7 @@ PolyHelper only requests permissions it needs to read Polymarket pages. It does 
 
 After installation, click the **puzzle icon** (Extensions menu) in your Chrome toolbar, then click the **pin icon** next to PolyHelper. This keeps the extension icon visible in your toolbar for quick access.
 
-<figure><img src="../.gitbook/assets/install-step3.png" alt="Pinning the extension"><figcaption>Pin PolyHelper to your toolbar</figcaption></figure>
+![Pinning the extension](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/install-step3.png)
 
 ---
 
@@ -51,7 +51,7 @@ After installation, click the **puzzle icon** (Extensions menu) in your Chrome t
 
 Navigate to [polymarket.com](https://polymarket.com). PolyHelper activates automatically — you'll see new panels appearing in the sidebar of market pages.
 
-<figure><img src="../.gitbook/assets/install-step4.png" alt="PolyHelper active on Polymarket"><figcaption>PolyHelper panels loaded on a Polymarket event page</figcaption></figure>
+![PolyHelper active on Polymarket](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/install-step4.png)
 
 ---
 
@@ -63,7 +63,7 @@ To start earning PolyHelper reward points, click the extension icon in your tool
 - Trading volume tracking
 - Referral program access
 
-<figure><img src="../.gitbook/assets/install-step5.png" alt="Connect account for rewards"><figcaption>Connect your account to start earning points</figcaption></figure>
+![Connect account for rewards](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/install-step5.png)
 
 ---
 
