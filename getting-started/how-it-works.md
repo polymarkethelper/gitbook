@@ -59,11 +59,11 @@ PolyHelper automatically detects the **type of market** you're viewing and loads
 | Sports (NBA, NFL, etc.) | Sports Intel, Live News |
 | Politics / Elections | Polls Intel, Live News, Top Holders PnL |
 | Stocks / Equities | Stocks Context, Macro Intel |
-| Geopolitics / Military | Pentagon Tracker, Conflict Radar, Military Maps |
+| Geopolitics / Military | Pentagon Activity Tracker, Conflict Monitor, Military Maps |
 | AI / Technology | AI Arena, Live News |
 | Entertainment / Box Office | Box Office Projections |
 | Weather | Weather Forecast |
-| Bonds / Finance | Bonds Tracker, Macro Intel |
+| Bonds / Finance | Bonds Scanner, Macro Intel |
 
 ---
 
