@@ -2,7 +2,7 @@
 
 PolyHelper was built by a team of Polymarket insiders, engineers, and crypto veterans — people who traded on the platform themselves and saw firsthand what was missing.
 
-<figure><img src="../.gitbook/assets/team-banner.png" alt="PolyHelper Team"><figcaption></figcaption></figure>
+![PolyHelper Team](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/team-banner.png)
 
 ---
 
@@ -10,7 +10,7 @@ PolyHelper was built by a team of Polymarket insiders, engineers, and crypto vet
 
 ### Valeriy — CMO, Co-Founder
 
-<figure><img src="../.gitbook/assets/team-valeriy.png" alt="Valeriy — CMO, Co-Founder"><figcaption></figcaption></figure>
+![Valeriy — CMO, Co-Founder](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/team-valeriy.png)
 
 - Polymarket Ambassador with traders badge
 - Built Polymarket's official Telegram channel and ran the **@PolymarketTraders** community
@@ -23,7 +23,7 @@ PolyHelper was built by a team of Polymarket insiders, engineers, and crypto vet
 
 ### Andrey — CTO, Co-Founder
 
-<figure><img src="../.gitbook/assets/team-andrey.png" alt="Andrey — CTO, Co-Founder"><figcaption></figcaption></figure>
+![Andrey — CTO, Co-Founder](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/team-andrey.png)
 
 - Fullstack engineer at **Spaceflight Simulator** — a game with 10M+ installs
 - CTO at **Dzeta.tech**
@@ -35,7 +35,7 @@ PolyHelper was built by a team of Polymarket insiders, engineers, and crypto vet
 
 ### Stanislav — Growth Lead
 
-<figure><img src="../.gitbook/assets/team-stanislav.png" alt="Stanislav — Growth Lead"><figcaption></figcaption></figure>
+![Stanislav — Growth Lead](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/team-stanislav.png)
 
 - Co-founder of a crypto influencer and marketing agency with over $3M in deal volume
 - Generated **250,000+ users** for Telegram Mini App (TMA) projects in a single month
@@ -48,7 +48,7 @@ PolyHelper was built by a team of Polymarket insiders, engineers, and crypto vet
 
 ### Alex — CBDO (Chief Business Development Officer)
 
-<figure><img src="../.gitbook/assets/team-alex.png" alt="Alex — CBDO"><figcaption></figcaption></figure>
+![Alex — CBDO](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/team-alex.png)
 
 - Head of Ventures at **InnMind.com**
 - BD at **Camp Network** — project raised a $30M Series A from 1kx + Blockchain Capital
