@@ -2,7 +2,7 @@
 
 The **Rewards Pool Calculator** helps liquidity providers on Polymarket evaluate LP rewards opportunities across all market outcome brackets — including **competition level indicators** that show at a glance where the edge is.
 
-<figure><img src="../.gitbook/assets/rewards-calculator.png" alt="Rewards Pool Calculator"><figcaption>LP rewards view showing competition levels — green is low competition, red is high</figcaption></figure>
+![Rewards Pool Calculator](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/rewards-calculator.png)
 
 ---
 
