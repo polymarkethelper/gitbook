@@ -4,7 +4,7 @@ Trading box office markets just got easier. The **Box Office** panel loads every
 
 Open it via the **Box Office** icon in the right-side panel navigation.
 
-<figure><img src="../.gitbook/assets/box-office.png" alt="Box Office Panel"><figcaption>Box Office — The Super Mario Galaxy Movie, Wk3 ~$36M estimate with drop comps</figcaption></figure>
+![Box Office Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/box-office.png)
 
 ---
 
