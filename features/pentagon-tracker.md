@@ -2,7 +2,7 @@
 
 The **PizzINT** panel tracks orders and activity at pizza places and gay bars near the Pentagon — a real OSINT technique used to detect unusual government activity before official announcements.
 
-<figure><img src="../.gitbook/assets/pentagon-tracker.png" alt="Pentagon Activity Tracker — PizzINT"><figcaption>PizzINT — tracking Pentagon-area activity as an early signal</figcaption></figure>
+![Pentagon Activity Tracker — PizzINT](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/pentagon-tracker.png)
 
 ---
 
