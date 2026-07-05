@@ -4,7 +4,7 @@
 **PolyHelper** — the most powerful browser extension for Polymarket traders. Get market intelligence, real-time data, and deep analytics — all in one place.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/banner.png" alt="PolyHelper Banner"><figcaption></figcaption></figure>
+![PolyHelper Banner](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/banner.png)
 
 ## What is PolyHelper?
 
