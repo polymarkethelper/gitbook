@@ -15,7 +15,6 @@ Open it via the **Sports** icon in the right-side panel navigation.
 | ⚽ Football (Soccer) | All major leagues worldwide |
 | 🏀 Basketball | NBA and international |
 | 🏒 Hockey | NHL and major leagues |
-| 🥊 UFC / MMA | Fighter records and rankings |
 | 🏈 American Football | NFL |
 | 🎾 Tennis | ATP, WTA, Grand Slams |
 | ⚾ Baseball | MLB |
@@ -67,8 +66,7 @@ The two teams in the matchup are highlighted in the standings table for quick re
 1. Check current points and position in the standings
 2. Count remaining games and look at recent form — is the team in a good run or collapsing?
 
-**For competition-specific markets** (UFC, tennis, F1):
-- Fighter records and rankings are loaded automatically for UFC markets
+**For competition-specific markets** (tennis, F1):
 - Player rankings and recent results for tennis
 - Race and qualifying results for F1 markets
 
@@ -78,9 +76,6 @@ The two teams in the matchup are highlighted in the standings table for quick re
 
 ### Football (Soccer)
 Covers all major leagues: Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, Europa League, and major international tournaments.
-
-### UFC / MMA
-Loads fighter records, win method breakdown (KO/Sub/Decision), and divisional rankings. Works alongside the dedicated [UFC Context](ufc-context.md) panel.
 
 ### Formula 1
 Session-by-session results: Practice, Qualifying, Sprint, Race. Useful for winner markets, fastest lap, and constructor standings.
@@ -92,4 +87,4 @@ Team records, recent form, and season standings — useful for game winner and p
 
 ## Markets Where This Panel Activates
 
-Sports Intel activates automatically on any market mentioning a sports team, athlete, league, or event across the 8 supported sports.
+Sports Intel activates automatically on any market mentioning a sports team, athlete, league, or event across the 7 supported sports. UFC/MMA markets use the dedicated [UFC Context](ufc-context.md) panel instead.
