@@ -1,101 +1,37 @@
 # Analytics Tools Overview
 
-PolyHelper includes **25+ specialized analytics panels** covering every major Polymarket category. Each tool is designed to give you a contextual edge in a specific type of market.
+PolyHelper includes specialized analytics panels covering all major Polymarket categories. Each tool is designed to give you contextual edge in a specific type of market.
 
 ---
 
 ## All Tools at a Glance
 
-<table data-view="cards">
-  <thead><tr><th></th><th></th><th></th></tr></thead>
-  <tbody>
-    <tr>
-      <td>📊 <strong>Crypto Context Panel</strong></td>
-      <td>Real-time crypto prices, Fear & Greed Index, token unlocks</td>
-      <td><a href="crypto-context.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>🏆 <strong>Sports Intel</strong></td>
-      <td>Live scores & stats for NBA, NFL, MLB, NHL, Soccer, F1</td>
-      <td><a href="sports-intel.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>📰 <strong>Live News Tab</strong></td>
-      <td>Breaking news from trusted X sources, market-relevant updates</td>
-      <td><a href="live-news.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>💰 <strong>Top Holders PnL</strong></td>
-      <td>Performance tracking of top position holders (24h / 7d / 30d)</td>
-      <td><a href="top-holders-pnl.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>📈 <strong>Price Charts</strong></td>
-      <td>TradingView-style candlestick charts with real-time updates</td>
-      <td><a href="price-charts.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>📉 <strong>Stocks Context</strong></td>
-      <td>Analyst consensus, earnings data, insider activity</td>
-      <td><a href="stocks-context.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>🏦 <strong>Macro Intel</strong></td>
-      <td>Federal Reserve rates, inflation data, economic indicators</td>
-      <td><a href="macro-intel.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>🗳️ <strong>Polls Intel</strong></td>
-      <td>Weighted poll averages from 16+ pollsters</td>
-      <td><a href="polls-intel.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>🛡️ <strong>Pentagon Activity Tracker</strong></td>
-      <td>Real-time geopolitical & military event monitoring (PizzINT)</td>
-      <td><a href="pentagon-tracker.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>🌍 <strong>Conflict Radar</strong></td>
-      <td>Global military operations display</td>
-      <td><a href="conflict-radar.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>🗺️ <strong>Military Maps</strong></td>
-      <td>ISW situation reports and frontline maps</td>
-      <td><a href="military-maps.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>🤖 <strong>AI Arena</strong></td>
-      <td>AI model leaderboards and performance benchmarks</td>
-      <td><a href="ai-arena.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>🎬 <strong>Box Office</strong></td>
-      <td>Weekend box office projections using decay modeling</td>
-      <td><a href="box-office.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>🌤️ <strong>Weather Forecast</strong></td>
-      <td>7-day weather forecasts for weather-related markets</td>
-      <td><a href="weather-forecast.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>💵 <strong>Bonds Tracker</strong></td>
-      <td>Bond yields filterable by APY and risk rating</td>
-      <td><a href="bonds-tracker.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>💬 <strong>Comments Filter</strong></td>
-      <td>Filter & sort market comments by position (YES/NO holders)</td>
-      <td><a href="comments-filter.md">Learn more →</a></td>
-    </tr>
-    <tr>
-      <td>🎁 <strong>Rewards Pool Calculator</strong></td>
-      <td>Calculate your LP rewards and potential earnings</td>
-      <td><a href="rewards-calculator.md">Learn more →</a></td>
-    </tr>
-  </tbody>
-</table>
+| Tool | What It Does |
+|---|---|
+| **Crypto Context** | Price, derivatives, Fear & Greed, supply data for crypto markets |
+| **Sports Intel** | Standings, recent results, H2H data for sports markets |
+| **Live News Tab** | X feed filtered to the current market |
+| **Top Holders PnL** | PnL of top 10/20/50 holders in the current market |
+| **Price Charts** | Polymarket odds history chart |
+| **Stocks Context** | Company data for stock-related markets |
+| **Macro Intel** | Fed rate, economic indicators, next release dates |
+| **Polls Intel** | Polling data vs market odds for election markets |
+| **Pentagon Activity Tracker** | DOUGHCON readiness based on Pentagon-area activity (PizzINT) |
+| **Conflict Monitor** | NASA satellite thermal detection for conflict zone activity |
+| **Military Maps** | ISW frontline maps for territorial markets |
+| **AI Arena** | AI model leaderboard from arena.ai |
+| **Box Office** | Box office projections and comparables for movie markets |
+| **Weather Forecast** | Weather data and 7-day forecast for weather markets |
+| **Bonds Scanner** | Scanner for high-probability Polymarket outcomes with yield data |
+| **Comments Filter** | Filter market comments by outcome and position |
+| **Rewards Pool Calculator** | LP rewards calculator with competition levels |
+| **UFC Context** | Fighter profiles, records, and rankings for MMA markets |
+| **Esports Context** | Team standings and results for esports markets |
+| **MrBeast Intel** | YouTube view velocity for MrBeast video markets |
+| **Trader Tracker** | Follow traders and monitor their live activity |
+| **Profile Enhancer** | Extended analytics on trader profile pages |
+| **X Analytics** | Posting stats and activity heatmap for tweet markets |
+| **Bookmaker Odds** | Polymarket vs sportsbook odds comparison |
 
 ---
 
@@ -104,16 +40,18 @@ PolyHelper includes **25+ specialized analytics panels** covering every major Po
 | Category | Tools Available |
 |---|---|
 | Crypto & DeFi | Crypto Context, Price Charts, Live News |
-| Sports | Sports Intel, Live News |
+| Sports | Sports Intel, Bookmaker Odds, Live News |
 | Politics & Elections | Polls Intel, Live News, Top Holders PnL |
 | Stocks | Stocks Context, Macro Intel |
-| Geopolitics | Pentagon Tracker, Conflict Radar, Military Maps |
+| Geopolitics | Pentagon Activity Tracker, Conflict Monitor, Military Maps |
 | AI & Technology | AI Arena, Live News |
-| Entertainment | Box Office, Eurovision |
+| Entertainment | Box Office, MrBeast Intel |
 | Weather | Weather Forecast |
-| Finance | Bonds Tracker, Macro Intel |
+| Finance | Bonds Scanner, Macro Intel |
+| Esports | Esports Context |
+| MMA / UFC | UFC Context, Bookmaker Odds |
 | All Markets | Top Holders PnL, Price Charts, Comments Filter, Rewards Calculator |
 
 ---
 
-> **Tip:** Panels auto-load based on the market you're viewing. You'll never need to manually select which tool to use — PolyHelper figures it out automatically.
+> **Tip:** Panels load automatically based on the market you're viewing. You'll never need to manually select which tool to use — PolyHelper figures it out automatically.
