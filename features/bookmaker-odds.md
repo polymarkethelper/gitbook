@@ -2,7 +2,7 @@
 
 This feature literally robs sportsbooks.
 
-**Bookmaker Odds** compares Polymarket prices against real sportsbook odds from up to 9 books — showing you the edge without opening a single sportsbook site. If the books think an outcome is more likely than Polymarket does, you've found a mispricing.
+**Bookmaker Odds** compares Polymarket prices against real sportsbook odds from up to 19 books — showing you the edge without opening a single sportsbook site. If the books think an outcome is more likely than Polymarket does, you've found a mispricing.
 
 <figure><img src="../.gitbook/assets/bookmaker-odds.png" alt="Bookmaker Odds Comparison"><figcaption>Bookmaker Odds — Real Madrid vs Oviedo: Poly 77.5% vs Books 77.7%, edge -0.2%</figcaption></figure>
 
@@ -31,8 +31,9 @@ For football (soccer) and other 3-outcome markets, all three outcomes are shown:
 
 Each row displays the full Poly / Books / Edge breakdown.
 
-### Book Count
-The panel shows how many sportsbooks are included in the aggregated "Books" price (e.g., "9 books") — the more books, the more reliable the consensus.
+### Sportsbooks Included
+
+Up to 19 books are aggregated: Pinnacle, DraftKings, FanDuel, BetMGM, William Hill, Betfair, Matchbook, Unibet, Betsson, BetOnline, Bet365, Caesars, PointsBet, Bovada, MyBookie, BetRivers, WynnBet, Circa Sports. The panel shows how many books are available for each specific market.
 
 ---
 
