@@ -4,7 +4,7 @@ The **Top Holders PnL** panel shows how the biggest position holders in a market
 
 The panel is accessible via the tab icon in the **top right corner** of every market page.
 
-<figure><img src="../.gitbook/assets/top-holders-pnl.png" alt="Top Holders PnL Panel"><figcaption>Top Holders PnL — choose 10, 20, or 50 top holders to analyze</figcaption></figure>
+![Top Holders PnL Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/top-holders-pnl.png)
 
 ---
 
