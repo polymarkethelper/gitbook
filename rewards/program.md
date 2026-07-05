@@ -2,7 +2,7 @@
 
 PolyHelper runs a **rewards program** that lets users earn points through activity — and those points qualify for potential airdrop allocations.
 
-<figure><img src="../.gitbook/assets/rewards-program.png" alt="PolyHelper Rewards Program"><figcaption>PolyHelper rewards dashboard</figcaption></figure>
+![PolyHelper Rewards Program](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/rewards-program.png)
 
 ---
 
