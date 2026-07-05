@@ -4,7 +4,7 @@ Stop bouncing between CoinMarketCap and CoinGecko. **Crypto Context** brings all
 
 Open it via the **Crypto** icon in the right-side panel navigation.
 
-<figure><img src="../.gitbook/assets/crypto-context.png" alt="Crypto Context Panel — Bitcoin"><figcaption>Crypto Context for BTC — price, supply, derivatives, Fear & Greed index and more</figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/crypto-context.png" alt="Crypto Context Panel — Bitcoin"><figcaption>Crypto Context for BTC — price, supply, derivatives, Fear & Greed index and more</figcaption></figure>
 
 ---
 
