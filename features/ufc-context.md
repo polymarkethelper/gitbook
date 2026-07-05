@@ -2,7 +2,7 @@
 
 The **UFC Context** panel loads fighter profiles, records, and rankings directly inside Polymarket — giving you everything you need to trade UFC and MMA markets without leaving the page.
 
-<figure><img src="../.gitbook/assets/ufc-context.png" alt="UFC Context Panel"><figcaption>UFC Context panel on a fight outcome market</figcaption></figure>
+![UFC Context Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/ufc-context.png)
 
 ---
 
