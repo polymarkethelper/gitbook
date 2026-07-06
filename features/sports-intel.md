@@ -4,8 +4,6 @@ The **Sports Intel** panel loads matchup data and live standings directly inside
 
 Open it via the **Sports** icon in the right-side panel navigation.
 
-![Sports Intel Panel — La Liga matchup](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/sports-intel.png)
-
 ---
 
 ## Supported Sports
