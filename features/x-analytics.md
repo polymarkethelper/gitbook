@@ -4,7 +4,9 @@
 
 Open it via the **Analytics** icon in the right-side panel navigation. The panel has two tabs: **Feed** and **Analytics**.
 
-![X Analytics Panel — @elonmusk](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/x-analytics.png)
+| | |
+|---|---|
+| ![X Analytics Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/x-analytics.png) | ![X Analytics Panel 2](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/x-analytics-2.png) |
 
 ---
 
