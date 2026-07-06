@@ -78,7 +78,7 @@ The derivatives section is where traders find their edge:
 
 ## Markets Where This Panel Activates
 
-- Bitcoin, Ethereum, and major altcoin price markets
-- Crypto market cap milestones
-- BTC dominance markets
+- [Bitcoin, Ethereum, and major altcoin price markets](https://polymarket.com/crypto/bitcoin)
+- [Crypto market cap milestones](https://polymarket.com/crypto)
+- [BTC dominance markets](https://polymarket.com/crypto)
 - Any market involving a specific cryptocurrency or the broader crypto market
