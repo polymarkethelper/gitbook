@@ -8,44 +8,7 @@ PolyHelper is a **browser extension** built on the Chrome Extensions (Manifest V
 
 ## Architecture
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#1e293b', 'primaryTextColor': '#e2e8f0', 'primaryBorderColor': '#3b82f6', 'lineColor': '#3b82f6', 'secondaryColor': '#0f172a', 'edgeLabelBackground': '#0f172a', 'clusterBkg': '#0f172a', 'clusterBorder': '#1e293b', 'titleColor': '#60a5fa', 'nodeTextColor': '#e2e8f0', 'fontFamily': 'ui-sans-serif, system-ui, sans-serif'}}}%%
-
-flowchart TD
-    PM(["🌐  polymarket.com"])
-
-    subgraph EXT["  PolyHelper Extension  "]
-        direction TB
-        CS["⚡ Content Scripts\n─────────────────\nDetect market type\nInject sidebar panels"]
-        BW["⚙️ Background Worker\n─────────────────\nFetch data from APIs\nCache & refresh"]
-
-        subgraph DS["  📡 Data Sources  "]
-            direction LR
-            D1["₿ Crypto"] ~~~ D2["🏆 Sports"] ~~~ D3["📰 News"]
-            D4["📊 Polls"] ~~~ D5["📈 Macro"] ~~~ D6["🌍 Geo"]
-        end
-
-        CS <--> BW
-        BW --> DS
-    end
-
-    UI(["✅  Enhanced Polymarket UI\nYour panels · Your data · Your edge"])
-
-    PM --> EXT
-    EXT --> UI
-
-    style PM fill:#312e81,stroke:#6366f1,color:#e0e7ff
-    style CS fill:#1e293b,stroke:#3b82f6,color:#e2e8f0
-    style BW fill:#1e293b,stroke:#3b82f6,color:#e2e8f0
-    style DS fill:#0f172a,stroke:#1e293b,color:#94a3b8
-    style D1 fill:#0f172a,stroke:#1e293b,color:#64748b
-    style D2 fill:#0f172a,stroke:#1e293b,color:#64748b
-    style D3 fill:#0f172a,stroke:#1e293b,color:#64748b
-    style D4 fill:#0f172a,stroke:#1e293b,color:#64748b
-    style D5 fill:#0f172a,stroke:#1e293b,color:#64748b
-    style D6 fill:#0f172a,stroke:#1e293b,color:#64748b
-    style UI fill:#1d4ed8,stroke:#3b82f6,color:#fff
-```
+When you open a Polymarket market page, PolyHelper's **content script** detects the market type and injects the relevant panels into the sidebar. A **background service worker** runs in parallel — fetching live data from external APIs (crypto, sports, news, polls, macro, geo), caching it, and keeping panels updated in real time. The result is a seamlessly enhanced Polymarket UI with no impact on the native interface.
 
 ---
 
