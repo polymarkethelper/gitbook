@@ -2,6 +2,8 @@
 
 The **Comments Filter** adds a filter panel to Polymarket's comment sections — letting you filter comments by outcome and position to cut through noise.
 
+![Comments Filter](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/comments-filter.png)
+
 ---
 
 ## What It Does
