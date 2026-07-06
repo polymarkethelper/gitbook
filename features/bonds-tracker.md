@@ -2,6 +2,8 @@
 
 The **Bonds Scanner** scans all Polymarket markets for high-probability outcomes close to $1.00 — displaying them as a yield table so you can find markets that function like short-term bonds.
 
+![Bonds Scanner](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/bonds-scanner.png)
+
 ---
 
 ## The Concept
