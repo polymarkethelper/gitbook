@@ -53,6 +53,6 @@ This is an OSINT signal based on satellite data, not a direct report of military
 
 ## Markets Where This Panel Activates
 
-- Military conflict and escalation markets
-- Territorial control markets
+- [Military conflict and escalation markets](https://polymarket.com/geopolitics)
+- [Territorial control markets](https://polymarket.com/geopolitics/ukraine-map)
 - Any market where frontline activity in a conflict zone is relevant
