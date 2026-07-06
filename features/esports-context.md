@@ -8,16 +8,7 @@ The **Esports Context** panel brings competitive gaming data into Polymarket for
 
 ## Supported Games
 
-| Game | |
-|---|---|
-| League of Legends | LoL |
-| Valorant | |
-| Dota 2 | |
-| Counter-Strike 2 | CS2 |
-| Call of Duty | CoD |
-| Mobile Legends | MLBB |
-| Overwatch / Overwatch 2 | |
-| Rainbow Six Siege | R6 |
+League of Legends (LoL), Valorant, Dota 2, Counter-Strike 2 (CS2), Call of Duty (CoD), Mobile Legends (MLBB), Overwatch 2, Rainbow Six Siege (R6)
 
 ---
 
