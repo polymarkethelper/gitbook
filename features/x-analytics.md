@@ -110,5 +110,6 @@ Alongside the Analytics tab, the **Feed** tab shows the account's actual recent 
 
 ## Markets Where This Panel Activates
 
-- Tweet count and posting frequency markets
+- [Tweet count and posting frequency markets](https://polymarket.com/tech/elon-musk)
+- [Elon Musk # tweets July 7 – July 14, 2026?](https://polymarket.com/event/elon-musk-of-tweets-july-7-july-14)
 - Any market about a specific X account's activity
