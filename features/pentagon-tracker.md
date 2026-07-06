@@ -36,6 +36,6 @@ It's a soft signal, not a hard data source. Use it as one input alongside other 
 
 ## Markets Where This Panel Activates
 
-- US defense and military markets
-- Geopolitical conflict and escalation markets
+- [US defense and military markets](https://polymarket.com/geopolitics)
+- [Geopolitical conflict and escalation markets](https://polymarket.com/geopolitics)
 - Any market where unexpected US government activity would be relevant
