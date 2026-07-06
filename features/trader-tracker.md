@@ -2,6 +2,10 @@
 
 The **Trader Tracker** lets you follow specific Polymarket traders, organize them into color-coded groups, and monitor their live trading activity.
 
+| | |
+|---|---|
+| ![Trader Tracker](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/trader-tracker.png) | ![Trader Tracker 2](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/trader-tracker-2.png) |
+
 ---
 
 ## How to Add a Trader
