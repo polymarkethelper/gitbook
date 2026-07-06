@@ -1,6 +1,8 @@
 # Charts
 
-The **Charts** panel brings real-time charts directly into the market page — Polymarket odds history plus underlying asset price from multiple sources.
+**Charts** добавляет график актива прямо в маркет, чтобы было удобнее отслеживать реальную цену не выходя из Polymarket.
+
+![Charts Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/charts.png)
 
 ---
 
