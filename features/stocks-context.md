@@ -14,7 +14,7 @@ Company analytics, earnings data, and holdings for stock-related markets. The pa
 
 ## Markets Where This Panel Activates
 
-- Earnings beat/miss markets
-- Stock price target markets
+- [Earnings beat/miss markets](https://polymarket.com/finance)
+- [Stock price target markets](https://polymarket.com/finance)
 - M&A and acquisition markets
 - Any market involving a publicly traded company
