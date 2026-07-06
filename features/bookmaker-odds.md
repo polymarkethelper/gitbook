@@ -78,7 +78,7 @@ Sportsbooks build a margin (vig) into their prices. The "Books" probability show
 
 ## Markets Where This Panel Activates
 
-- Soccer / football match winner markets
-- NBA, NFL, MLB, NHL game winner markets
-- UFC fight outcome markets
+- [Soccer / football match winner markets](https://polymarket.com/sports/world-cup)
+- [NBA, NFL, MLB, NHL game winner markets](https://polymarket.com/sports/nba/games)
+- [UFC fight outcome markets](https://polymarket.com/sports/ufc/games)
 - Any sports market where sportsbook odds are available for comparison
