@@ -26,7 +26,7 @@ Weather data is provided by [Open-Meteo](https://open-meteo.com/).
 
 ## Markets Where This Panel Activates
 
-- Temperature record and extreme weather markets
-- Hurricane and tropical storm markets
-- Precipitation and drought markets
+- [Temperature record and extreme weather markets](https://polymarket.com/weather/temperature)
+- [Hurricane and tropical storm markets](https://polymarket.com/weather)
+- [Precipitation and drought markets](https://polymarket.com/weather)
 - Any location-specific weather event market
