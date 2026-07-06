@@ -32,5 +32,5 @@ The **Esports Context** panel brings competitive gaming data into Polymarket for
 
 ## Markets Where This Panel Activates
 
-- LoL, Valorant, Dota 2, CS2, CoD, MLBB, Overwatch, and Rainbow Six Siege match markets
-- Tournament winner and placement markets
+- [LoL](https://polymarket.com/esports/league-of-legends), [Valorant](https://polymarket.com/esports/valorant/games), [CS2](https://polymarket.com/esports/cs2), CoD, MLBB, Overwatch, and Rainbow Six Siege match markets
+- [Tournament winner and placement markets](https://polymarket.com/esports)
