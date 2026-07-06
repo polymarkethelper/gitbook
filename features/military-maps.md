@@ -40,6 +40,6 @@ An interactive, zoomable ISW map embedded directly in Polymarket showing:
 
 ## Markets Where This Panel Activates
 
-- Territorial control markets
-- City/region capture or defense markets
+- [Territorial control markets](https://polymarket.com/geopolitics/ukraine-map)
+- [City/region capture or defense markets](https://polymarket.com/event/russia-x-ukraine-ceasefire-before-2027)
 - Any market where frontline positions are relevant
