@@ -78,6 +78,6 @@ If the current film is dropping faster than comparable titles, the lower revenue
 
 ## Markets Where This Panel Activates
 
-- Weekend box office gross markets (Wk1, Wk2, Wk3, etc.)
-- Cumulative domestic or worldwide gross markets
+- [Weekend box office gross markets (Wk1, Wk2, Wk3, etc.)](https://polymarket.com/pop-culture/movies)
+- [Cumulative domestic or worldwide gross markets](https://polymarket.com/predictions/box-office)
 - Any market involving a specific film's theatrical performance
