@@ -23,16 +23,7 @@ Top 10 models ranked by Elo-style score. For each model:
 
 ### Category Selector
 
-Switch between leaderboard categories:
-
-| Category | Label |
-|---|---|
-| Overall | Overall |
-| Coding | Coding |
-| Math | Math |
-| Hard Prompts | Hard |
-| Creative Writing | Creative |
-| Instruction Following | Instruct |
+Switch between leaderboard categories: Overall, Coding, Math, Hard Prompts, Creative Writing, Instruction Following.
 
 ---
 
