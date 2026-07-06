@@ -2,6 +2,8 @@
 
 The **AI Arena** panel shows the current AI model leaderboard from [arena.ai](https://arena.ai/leaderboard/text) — letting you check model rankings without leaving Polymarket.
 
+![AI Arena Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/ai-arena.png)
+
 ---
 
 ## What It Shows
