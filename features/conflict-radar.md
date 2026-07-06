@@ -2,6 +2,8 @@
 
 The **Conflict Monitor** panel uses NASA satellite thermal detection data to track military activity in conflict zones — giving you an objective, source-independent signal for geopolitical markets.
 
+![Conflict Monitor — Iran Nuclear Sites](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/conflict-monitor.png)
+
 ---
 
 ## How It Works
