@@ -1,6 +1,6 @@
-# Military Maps
+# Frontline Maps
 
-Trading Ukraine or other conflict markets? The **Military Maps** panel embeds the ISW interactive frontline map directly inside Polymarket. Just tap the **Map** tab — no switching between tabs, no separate research tools.
+Trading Ukraine or other conflict markets? The **Frontline Maps** panel embeds the ISW interactive frontline map directly inside Polymarket. Just tap the **Map** tab — no switching between tabs, no separate research tools.
 
 ![Military Maps — Assessed Control of Terrain in Ukraine](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/military-maps.png)
 
