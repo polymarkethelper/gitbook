@@ -2,6 +2,10 @@
 
 The **Profile Enhancer** adds a **Trader Analytics** section to any Polymarket trader's profile page — showing extended performance metrics not available in the native profile.
 
+| | |
+|---|---|
+| ![Profile Enhancer](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/profile-enhancer.png) | ![Profile Enhancer 2](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/profile-enhancer-2.png) |
+
 ---
 
 ## What It Adds
