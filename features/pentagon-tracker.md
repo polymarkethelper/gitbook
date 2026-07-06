@@ -1,6 +1,6 @@
-# Pentagon Activity Tracker (PizzINT)
+# Pentagon Pizza Index
 
-The **PizzINT** panel tracks orders and activity at pizza places and gay bars near the Pentagon — a real OSINT technique used to detect unusual government activity before official announcements.
+The **Pentagon Pizza Index** tracks orders and activity at pizza places and bars near the Pentagon — a real OSINT technique used to detect unusual government activity before official announcements.
 
 ![Pentagon Activity Tracker — PizzINT](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/pentagon-tracker.png)
 
@@ -23,6 +23,17 @@ The same principle applies to gay bars near certain embassies and government fac
 - Activity levels at tracked locations near the Pentagon
 - Unusual spikes vs. normal baseline
 - Time and recency of the signal
+- **Venue Activity** — 24h activity trend broken down by individual venue (6 tracked locations)
+
+## DOUGHCON Levels
+
+| Level | Name |
+|---|---|
+| 1 | Maximum Readiness |
+| 2 | Next Step to Maximum Readiness |
+| 3 | Increase in Force Readiness |
+| 4 | Increased Intelligence Watch |
+| 5 | Lowest State of Readiness |
 
 ---
 
