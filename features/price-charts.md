@@ -26,4 +26,10 @@ Switch between data sources depending on the market:
 
 ## Markets Where This Panel Activates
 
-Charts activate automatically when the market's resolution source is a tradeable asset — crypto markets resolving via Binance, and stock markets resolving via Yahoo Finance. Does not appear on politics, sports, or other event-based markets.
+Charts активируется автоматически на маркетах где resolution source — Binance или Yahoo Finance. На политике, спорте и других event-based маркетах не появляется.
+
+**Криптовалюты** (Binance):
+BTC, ETH, SOL, XRP, BNB, DOGE, ADA, AVAX, LINK, LTC, BCH, DOT, ATOM, UNI, NEAR, APT, SUI, OP, ARB, PEPE, WIF и другие альткоины
+
+**Акции и индексы** (Yahoo Finance):
+NVDA, META, AAPL, MSFT, TSLA, GOOGL, AMZN, SPY (S&P 500), QQQ (NASDAQ), MSTR, GME, PLTR, COIN, AMD, INTC, JPM, GS, V, WMT, DIS, PFE, MRNA, BA и другие
