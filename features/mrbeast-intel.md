@@ -77,7 +77,7 @@ The panel updates every **10 minutes** — giving you fresh data without any man
 
 ## Markets Where This Panel Activates
 
-- YouTube view count and milestone markets
+- [YouTube view count and milestone markets](https://polymarket.com/pop-culture/mrbeast)
+- [# of views of next MrBeast video on day 1?](https://polymarket.com/event/of-views-of-next-mrbeast-video-on-day-1-966)
 - Creator upload frequency markets
-- Video performance and ranking markets
 - Any market involving YouTube content or channels
