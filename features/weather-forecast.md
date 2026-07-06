@@ -1,6 +1,6 @@
-# Weather Forecast
+# Weather Context
 
-The **Weather Forecast** panel displays weather data for location-specific markets on Polymarket — from extreme weather events to temperature records.
+The **Weather Context** panel displays weather data for location-specific markets on Polymarket — from extreme weather events to temperature records.
 
 | | |
 |---|---|
