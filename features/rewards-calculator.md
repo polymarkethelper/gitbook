@@ -1,6 +1,6 @@
-# Rewards Pool Calculator
+# LP Rewards
 
-The **Rewards Pool Calculator** helps liquidity providers on Polymarket evaluate LP rewards opportunities across all market outcome brackets — including **competition level indicators** that show at a glance where the edge is.
+The **LP Rewards** panel helps liquidity providers on Polymarket evaluate LP rewards opportunities across all market outcome brackets — including **competition level indicators** that show at a glance where the edge is.
 
 ![Rewards Pool Calculator](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/rewards-calculator.png)
 
