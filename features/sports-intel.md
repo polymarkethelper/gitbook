@@ -77,15 +77,8 @@ The two teams in the matchup are highlighted in the standings table for quick re
 ### Football (Soccer)
 Covers all major leagues: Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, Europa League, and major international tournaments.
 
-![Sports Intel — Soccer matchup](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/sports-intel.png)
-
 ### Formula 1
 Session-by-session results: Practice, Qualifying, Sprint, Race. Useful for winner markets, fastest lap, and constructor standings.
-
-| | |
-|---|---|
-| ![F1 Drivers](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/f1-drivers.png) | ![F1 Teams](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/f1-teams.png) |
-| ![F1 Races](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/f1-races-1.png) | ![F1 Races 2](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/f1-races-2.png) |
 
 ### American Football (NFL)
 Team records, recent form, and season standings — useful for game winner and playoff-related markets.
