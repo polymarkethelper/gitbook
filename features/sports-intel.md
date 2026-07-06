@@ -88,3 +88,5 @@ Team records, recent form, and season standings — useful for game winner and p
 ## Markets Where This Panel Activates
 
 Sports Intel activates automatically on any market mentioning a sports team, athlete, league, or event across the 7 supported sports. UFC/MMA markets use the dedicated [UFC Context](ufc-context.md) panel instead.
+
+Browse: [2026 World Cup](https://polymarket.com/sports/world-cup) · [NBA](https://polymarket.com/sports/nba/games) · [All Sports](https://polymarket.com/sports/live)
