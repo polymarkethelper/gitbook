@@ -36,6 +36,10 @@ Open it via the **Crypto** icon in the right-side panel navigation.
 | **FDV** | Fully Diluted Valuation — theoretical market cap if all tokens circulated |
 | **Dilution** | FDV ÷ Market Cap — how much potential supply inflation remains |
 
+### Token Unlocks
+
+Visual bar showing what % of tokens have been unlocked, with the remaining locked amount. High locked % means future sell pressure when tokens vest — relevant for altcoin price target markets.
+
 ### Derivatives
 
 The derivatives section is where traders find their edge:
