@@ -2,6 +2,8 @@
 
 The **Esports Context** panel brings competitive gaming data into Polymarket for esports markets.
 
+![Esports Context Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/esports-context.png)
+
 ---
 
 ## Supported Games
