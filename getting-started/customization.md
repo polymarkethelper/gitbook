@@ -5,7 +5,7 @@ Don't need a specific tool? You can turn off any feature individually. PolyHelpe
 **How to open Settings:**
 Look for the **gear icon ⚙️** in the right-side tab bar of the extension — click it to open the Settings panel.
 
-![PolyHelper Settings Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/settings-panel.png)
+![](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/settings-panel.png)
 
 ---
 
