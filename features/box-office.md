@@ -35,12 +35,7 @@ A visual range bar showing where the current estimate sits between the low and h
 ### Market Outcome Probability Bars
 The panel shows what Polymarket is currently pricing for each revenue bracket:
 
-```
-<$44M   ████████████████████  93¢
-$44–48M ██                     7¢
-$48–52M                        0¢
->$52M                          0¢
-```
+![Box Office — Market Outcome Probability Bars](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/box-office-2.png)
 
 Instantly shows the market's conviction — and where mispricings might exist.
 
