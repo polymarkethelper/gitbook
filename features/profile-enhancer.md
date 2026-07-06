@@ -12,6 +12,23 @@ The **Profile Enhancer** adds a **Trader Analytics** section to any Polymarket t
 
 When you open a trader's profile page, PolyHelper automatically loads the Trader Analytics block with the following stats:
 
+### Trader Archetype
+
+PolyHelper classifies each trader into one of 8 archetypes based on their trading patterns:
+
+| Archetype | |
+|---|---|
+| **Sniper** | Enters late, bets high-conviction near resolution |
+| **Early Mover** | Consistently bets early when odds are least efficient |
+| **Specialist** | Dominates a narrow set of market categories |
+| **The Machine** | High-frequency, systematic — algorithmic-style trading |
+| **Market Maker** | Provides liquidity across many markets |
+| **Whale** | Large position sizes, low frequency |
+| **Degen** | High risk, chasing long shots |
+| **Retail** | General trader, no dominant pattern |
+
+Each archetype comes with a confidence level (low / medium / high).
+
 **Performance**
 
 | Metric | Description |
