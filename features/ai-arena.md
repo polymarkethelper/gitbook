@@ -38,5 +38,6 @@ Switch between leaderboard categories:
 
 ## Markets Where This Panel Activates
 
-- AI model ranking and performance markets
-- Any market where AI model comparisons are relevant
+- [AI model ranking and performance markets](https://polymarket.com/ai)
+- [Which company has the best AI model?](https://polymarket.com/event/which-company-has-best-ai-model-end-of-august)
+- [Top AI model on December 31?](https://polymarket.com/event/top-ai-model-on-december-31)
