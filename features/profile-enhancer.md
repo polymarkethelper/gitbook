@@ -12,18 +12,25 @@ The **Profile Enhancer** adds a **Trader Analytics** section to any Polymarket t
 
 When you open a trader's profile page, PolyHelper automatically loads the Trader Analytics block with the following stats:
 
+**Performance**
+
 | Metric | Description |
 |---|---|
 | **Profit Factor** | Sum of winning PnL ÷ sum of losing PnL. >1 = profitable overall |
 | **Total PnL** | Lifetime realized + unrealized profit & loss |
 | **Return on Vol** | Total PnL ÷ lifetime volume traded — profit per dollar churned |
 | **Volume** | Lifetime trading volume across all markets |
+| **Win Rate** | % of resolved markets where the trader was profitable |
+
+**Account**
+
+| Metric | Description |
+|---|---|
 | **Rank by PnL** | Trader's rank among all Polymarket users by PnL |
 | **Rank by Volume** | Trader's rank by trading volume |
 | **Cash** | Available balance |
 | **Position Value** | Current value of open positions |
 | **Active Days** | Number of days the trader has been active |
-| **Win Rate** | % of resolved markets where the trader was profitable |
 | **Activity Calendar** | Heatmap of trading activity over time |
 
 ---
