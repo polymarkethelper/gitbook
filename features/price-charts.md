@@ -24,4 +24,4 @@ Switch between data sources depending on the market:
 
 ## Markets Where This Panel Activates
 
-Charts are available on all Polymarket events.
+Charts activate automatically when the market's resolution source is a tradeable asset — crypto markets resolving via Binance, and stock markets resolving via Yahoo Finance. Does not appear on politics, sports, or other event-based markets.
