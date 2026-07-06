@@ -41,15 +41,6 @@ For each outcome bracket (e.g., >$800M, >$1B, >$1.5B):
 | **Remaining** | How much of the reward pool is still unclaimed (~$422 left) |
 | **Buy Yes / Buy No** | Current bid prices with competition color indicator |
 
-### Example Read
-
-```
->$1B   98% ▲13%   $801/day ($0.55 sponsored) · ~$422 left
-         Buy Yes 98.6¢ [green]   Buy No 2.0¢ [red]
-```
-
-→ The YES side at 98.6¢ is green (low competition) — most LPs are crowding the NO side. If you provide YES liquidity here, you capture a larger share of the $801/day pool.
-
 ---
 
 ## How to Use It
