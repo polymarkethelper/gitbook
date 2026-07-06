@@ -4,7 +4,9 @@ The FOMC meeting is coming up — are you ready? **Macro Intel** puts the Fed ra
 
 Open it via the **Econ** icon in the right-side panel navigation.
 
-![Macro Intel Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/macro-intel.png)
+| | |
+|---|---|
+| ![Macro Intel Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/macro-intel.png) | ![Macro Intel Panel 2](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/macro-intel-2.png) |
 
 ---
 
