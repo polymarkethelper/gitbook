@@ -31,7 +31,7 @@ Fighter data comes from [ufc.com](https://www.ufc.com).
 
 ## Markets Where This Panel Activates
 
-- UFC fight winner markets
-- Method of victory markets (KO/TKO, Submission, Decision)
-- Championship and title fight markets
-- Fighter ranking and career outcome markets
+- [UFC fight winner markets](https://polymarket.com/sports/ufc)
+- [Method of victory markets (KO/TKO, Submission, Decision)](https://polymarket.com/sports/ufc/props)
+- [Championship and title fight markets](https://polymarket.com/predictions/ufc)
+- [Fighter ranking and career outcome markets](https://polymarket.com/predictions/ufc)
