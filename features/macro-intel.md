@@ -76,8 +76,8 @@ Each indicator shows: current value, recent change, a mini chart, a signal label
 
 ## Markets Where This Panel Activates
 
-- Federal Reserve rate decision markets
-- FOMC meeting outcome markets
-- Inflation / CPI markets
-- GDP and unemployment data markets
+- [Federal Reserve rate decision markets](https://polymarket.com/economy/fed-rates)
+- [FOMC meeting outcome markets](https://polymarket.com/economy/fed-rates)
+- [Inflation / CPI markets](https://polymarket.com/predictions/inflation)
+- [GDP and unemployment data markets](https://polymarket.com/economy)
 - Any crypto, equity, or financial market where macro policy is relevant
