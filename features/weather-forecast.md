@@ -2,6 +2,10 @@
 
 The **Weather Forecast** panel displays weather data for location-specific markets on Polymarket — from extreme weather events to temperature records.
 
+| | |
+|---|---|
+| ![Weather Forecast](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/weather-forecast.png) | ![Weather Forecast 2](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/weather-forecast-2.png) |
+
 ---
 
 ## What It Shows
