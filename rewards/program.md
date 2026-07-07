@@ -73,8 +73,10 @@ The higher Polymarket's total platform volume, the larger the total rewards pool
 ### Step 1 — Install the Extension
 [Install PolyHelper](https://chromewebstore.google.com/detail/polyhelper/mebiclnfcnknilfaoanimpaeimjlafmg?utm_source=item-share-cb)
 
-### Step 2 — Connect Your Account
-Click the PolyHelper icon in your browser toolbar and connect your Polymarket wallet address to link your trading volume to your points account.
+### Step 2 — Enable PolyHelper
+Click the PolyHelper extension icon in your browser toolbar and activate the product.
+
+![](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/enable-polyhelper.png)
 
 ### Step 3 — Claim Your Daily Points
 Visit any Polymarket page with PolyHelper installed and claim your daily 0.5 points.
