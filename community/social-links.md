@@ -103,7 +103,7 @@ New features, social tasks with bonus points, and Polymarket market coverage add
 ## Contact & Support
 
 For technical support or bug reports:
-- Post in `#support-ticket` on [Discord](https://discord.gg/2RfMcye8fG)
+- Post in `#support-ticket` or `#bug-report` on [Discord](https://discord.gg/2RfMcye8fG)
 - Message on [Telegram Support](https://t.me/polyhelpers)
 - DM [@Poly_Helper on X](https://x.com/Poly_Helper)
 
