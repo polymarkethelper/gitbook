@@ -71,6 +71,8 @@ Chrome automatically keeps extensions up to date. To manually check for updates:
 2. Enable **Developer mode** (top-right toggle)
 3. Click **"Update"**
 
+[Watch a detailed video guide on how to do this →](https://x.com/Poly_Helper/status/2074483998135386586?s=20)
+
 ---
 
 
