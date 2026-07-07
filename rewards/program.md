@@ -78,13 +78,18 @@ Click the PolyHelper extension icon in your browser toolbar and activate the pro
 
 ![](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/enable-polyhelper.png)
 
-### Step 3 — Claim Your Daily Points
+### Step 3 — Sign In to Rewards
+On any Polymarket page, click the **Reward** button in the PolyHelper right-side panel and sign in as shown in the screenshot.
+
+![](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/sign-in-reward.png)
+
+### Step 5 — Claim Your Daily Points
 Visit any Polymarket page with PolyHelper installed and claim your daily 0.5 points.
 
-### Step 4 — Share Your Referral Link
+### Step 6 — Share Your Referral Link
 Find your referral link in the PolyHelper dashboard and share it to start earning passive points from your network.
 
-### Step 5 — Complete Social Tasks
+### Step 7 — Complete Social Tasks
 Follow the latest social tasks on [@Poly_Helper](https://x.com/Poly_Helper) for bonus point opportunities.
 
 ---
