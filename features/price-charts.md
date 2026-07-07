@@ -1,6 +1,6 @@
 # Charts
 
-**Charts** добавляет график актива прямо в маркет, чтобы было удобнее отслеживать реальную цену не выходя из Polymarket.
+**Charts** adds a real-time asset price chart directly into the market page, so you can track the actual price without leaving Polymarket.
 
 ![Charts Panel](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/charts.png)
 
@@ -26,10 +26,10 @@ Switch between data sources depending on the market:
 
 ## Markets Where This Panel Activates
 
-Charts активируется автоматически на маркетах где resolution source — Binance или Yahoo Finance. На политике, спорте и других event-based маркетах не появляется.
+Charts activates automatically on markets where the resolution source is Binance or Yahoo Finance. It does not appear on politics, sports, or other event-based markets.
 
-**Криптовалюты** (Binance):
-BTC, ETH, SOL, XRP, BNB, DOGE, ADA, AVAX, LINK, LTC, BCH, DOT, ATOM, UNI, NEAR, APT, SUI, OP, ARB, PEPE, WIF и другие альткоины
+**Crypto** (Binance):
+BTC, ETH, SOL, XRP, BNB, DOGE, ADA, AVAX, LINK, LTC, BCH, DOT, ATOM, UNI, NEAR, APT, SUI, OP, ARB, PEPE, WIF and other altcoins
 
-**Акции и индексы** (Yahoo Finance):
-NVDA, META, AAPL, MSFT, TSLA, GOOGL, AMZN, SPY (S&P 500), QQQ (NASDAQ), MSTR, GME, PLTR, COIN, AMD, INTC, JPM, GS, V, WMT, DIS, PFE, MRNA, BA и другие
+**Stocks & Indices** (Yahoo Finance):
+NVDA, META, AAPL, MSFT, TSLA, GOOGL, AMZN, SPY (S&P 500), QQQ (NASDAQ), MSTR, GME, PLTR, COIN, AMD, INTC, JPM, GS, V, WMT, DIS, PFE, MRNA, BA and others
