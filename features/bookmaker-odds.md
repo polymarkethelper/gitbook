@@ -1,7 +1,5 @@
 # Bookmaker Odds
 
-This feature literally robs sportsbooks.
-
 **Bookmaker Odds** compares Polymarket prices against real sportsbook odds from up to 19 books — showing you the edge without opening a single sportsbook site. If the books think an outcome is more likely than Polymarket does, you've found a mispricing.
 
 ![Bookmaker Odds Comparison](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/bookmaker-odds.png)
