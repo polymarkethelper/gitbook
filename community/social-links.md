@@ -45,12 +45,23 @@ Direct technical support — reach out here if you have issues with the extensio
 **[discord.gg/2RfMcye8fG](https://discord.gg/2RfMcye8fG)**
 
 Discord is the home for structured community channels:
+
+**PolyHelper**
 - `#announcements` — official product updates
+- `#updates` — feature and changelog updates
+- `#official-links` — links to all PolyHelper resources
+
+**Community**
 - `#general` — open discussion
-- `#market-alpha` — trading signals and research
-- `#support` — technical help with the extension
-- `#feedback` — feature requests and bug reports
-- `#referrals` — share and track referral links
+- `#trading` — market discussion and alpha
+- `#lp-farming` — liquidity providing strategies
+- `#profits` — share your wins
+- `#your-tweets` — share your X posts
+
+**Support**
+- `#support-ticket` — technical help with the extension
+- `#feedback-suggestions` — feature requests
+- `#bug-report` — report issues
 
 ---
 
@@ -92,7 +103,7 @@ New features, social tasks with bonus points, and Polymarket market coverage add
 ## Contact & Support
 
 For technical support or bug reports:
-- Post in `#support` on [Discord](https://discord.gg/2RfMcye8fG)
+- Post in `#support-ticket` on [Discord](https://discord.gg/2RfMcye8fG)
 - Message on [Telegram Support](https://t.me/polyhelpers)
 - DM [@Poly_Helper on X](https://x.com/Poly_Helper)
 
