@@ -27,15 +27,11 @@ Go to the [PolyHelper page on the Chrome Web Store](https://chromewebstore.googl
 
 ---
 
-### Step 2 — Click "Add to Chrome"
+### Step 2 — Enable PolyHelper
 
-A confirmation popup will appear asking you to confirm the installation. Click **"Add extension"** to proceed.
+Click the PolyHelper extension icon in your browser toolbar and activate the product.
 
-![Add to Chrome confirmation dialog](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/install-step2.png)
-
-{% hint style="info" %}
-PolyHelper only requests permissions it needs to read Polymarket pages. It does not access your wallet, private keys, or any other browser data.
-{% endhint %}
+![](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/enable-polyhelper.png)
 
 ---
 
