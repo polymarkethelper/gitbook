@@ -51,15 +51,9 @@ Navigate to [polymarket.com](https://polymarket.com). PolyHelper activates autom
 
 ---
 
-### Step 5 — Connect Your Account (for Rewards)
+### Step 5 — Join the Rewards Program (Optional)
 
-To start earning PolyHelper reward points, click the extension icon in your toolbar and connect your Polymarket wallet address. This enables:
-
-- Daily point claims
-- Trading volume tracking
-- Referral program access
-
-![Connect account for rewards](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/install-step5.png)
+Learn how to earn points and qualify for the airdrop: [Points & Airdrop Program →](https://polyhelper.gitbook.io/polyhelper-docs/rewards-program/program)
 
 ---
 
