@@ -21,7 +21,7 @@ Getting started with PolyHelper takes less than 2 minutes. The extension is avai
 
 ### Step 1 — Open the Chrome Web Store
 
-Go to the [PolyHelper page on the Chrome Web Store](https://chromewebstore.google.com/detail/polyhelper/mebiclnfcnknilfaoanimpaeimjlafmg?utm_source=item-share-cb) or visit [polyhelper.io](https://polyhelper.io) and click the **"Add to Chrome"** button.
+Go to the [PolyHelper page on the Chrome Web Store](https://chromewebstore.google.com/detail/polyhelper/mebiclnfcnknilfaoanimpaeimjlafmg?utm_source=item-share-cb) or visit [polyhelper.io](https://polyhelper.io) and click the **"Install Extension"** button.
 
 ![Chrome Web Store page for PolyHelper](https://raw.githubusercontent.com/polymarkethelper/gitbook/main/.gitbook/assets/install-step1.png)
 
