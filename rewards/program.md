@@ -71,7 +71,7 @@ The higher Polymarket's total platform volume, the larger the total rewards pool
 ## How to Start Earning
 
 ### Step 1 — Install the Extension
-[Install PolyHelper →](../getting-started/installation.md)
+[Install PolyHelper](https://chromewebstore.google.com/detail/polyhelper/mebiclnfcnknilfaoanimpaeimjlafmg?utm_source=item-share-cb)
 
 ### Step 2 — Connect Your Account
 Click the PolyHelper icon in your browser toolbar and connect your Polymarket wallet address to link your trading volume to your points account.
