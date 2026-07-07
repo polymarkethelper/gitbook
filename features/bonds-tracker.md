@@ -41,7 +41,7 @@ Each row is one market outcome:
 
 ## How to Access It
 
-The Bonds Scanner is a **global tool** — it's not tied to a specific market page. Open it from the PolyHelper extension popup.
+The Bonds Scanner is always available in the **right-side panel** — it's not tied to any specific market page and is visible across all of Polymarket.
 
 ---
 
