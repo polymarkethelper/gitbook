@@ -73,17 +73,6 @@ Chrome automatically keeps extensions up to date. To manually check for updates:
 
 ---
 
-## Uninstalling
-
-To remove the extension:
-
-1. Right-click the PolyHelper icon in your toolbar
-2. Select **"Remove from Chrome"**
-3. Confirm removal
-
-Your Polymarket account and funds are completely unaffected by installing or uninstalling PolyHelper.
-
----
 
 ## Troubleshooting
 
