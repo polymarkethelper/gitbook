@@ -30,7 +30,7 @@ Points scale with your Polymarket trading activity:
 - 10,000 shares = 10 points
 - 100,000 shares = 100 points
 
-Your existing trading history counts — if you've been actively trading on Polymarket, your volume is already accumulating points.
+Only volume traded with PolyHelper enabled counts toward your points.
 
 ### Referral Program
 Share your unique referral link. When someone signs up and uses PolyHelper:
